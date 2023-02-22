@@ -18,4 +18,5 @@ jobs:
         with:
           python-version: '3.10.6' 
       - run: pip install -r requirements.txt
+      - run: pip install lxml
       - run: python main.py
