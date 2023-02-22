@@ -14,11 +14,19 @@ links = [''.join(url) for url in news_link]
 raw_dates = [i.text for i in soup.find_all(class_='mod-articles-category-date')]
 dates = [''.join(re.findall('([\d-])', date)) for date in raw_dates]
 
-content = ''
-for i in range(10):
-    # print(f'- {dates[i]}: {news[i]}, Link: https://www.hcmus.edu.vn{links[i]}')
-    content += f'- {dates[i]}: {news[i]}, Link: https://www.hcmus.edu.vn{links[i]}\n'
-
-with open('crawled.txt', 'w', encoding='utf-8') as f:
-    f.write(content)
+thong_bao = ['Các thông báo về Đào Tạo', 'Các thông báo về Công tác sinh viên', 'Thông báo khác']
+index = count = 0
+file = Path('README.md').rename(Path('README.md').with_suffix('.txt'))
+with open(file, 'w', encoding='utf-8') as f:
+    for i in range(len(dates)):
+        if count == 0:
+            f.write(f'### {thong_bao[index]}\n')
+            index += 1
+        count += 1
+        if count == 15:
+            count = 0
+        f.write(f' - {dates[i]}: [{news[i]}](https://www.hcmus.edu.vn{links[i]})\n')
 f.close()
+
+readme = Path('README.txt')
+readme.rename(readme.with_suffix('.md'))
