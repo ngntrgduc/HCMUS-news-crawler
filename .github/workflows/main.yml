@@ -17,10 +17,5 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.10.6' 
-
-      - name: Install dependencies
-      - run: |
-            python -m pip install --upgrade pip
-            if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-      - name: Crawl
+      - run: pip install -r requirements.txt
       - run: python main.py
