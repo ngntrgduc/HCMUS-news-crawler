@@ -20,3 +20,9 @@ jobs:
       - run: pip install -r requirements.txt
       - run: pip install lxml
       - run: python main.py
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Add crawled.txt"
+          git push
