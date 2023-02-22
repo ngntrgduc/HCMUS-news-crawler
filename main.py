@@ -5,7 +5,7 @@ import re
 import datetime
 
 page = requests.get("https://www.hcmus.edu.vn/sinh-vien")
-soup = bs(page.content, 'lxml')
+soup = bs(page.content, features="lxml")
 
 news = [i.text for i in soup.find_all(class_='mod-articles-category-title')]
 news_link = [i.attrs['href'] for i in soup.find_all(class_='mod-articles-category-title')]
