@@ -47,11 +47,11 @@
  - 28-06-2022: [[Thông báo] CT GROUP TUYỂN DỤNG 25.000 NHÂN TÀI CHO CHIẾN LƯỢC PHÁT TRIỂN TOÀN CẦU](https://www.hcmus.edu.vn/component/content/article/104-quan-he-doi-ngoai/thông-tin-dành-cho-sinh-viên/4415-thông-báo-ct-group-tuyển-dụng-25-000-nhân-tài-cho-chiến-lược-phát-triển-toàn-cầu?Itemid=437)
  - 14-06-2022: [[Thông báo] Tiếp tục Đăng ký Chương trình Phát triển Nhân tài số](https://www.hcmus.edu.vn/component/content/article/104-quan-he-doi-ngoai/thông-tin-dành-cho-sinh-viên/4394-thong-bao-tiep-tuc-dang-ky-chuong-trinh-phat-trien-nhan-tai-so?Itemid=437)
 ### Các thông báo về Khảo thí
+ - [Thông báo thay đổi phòng thi giữa kỳ HK2/22-23 ngày 10/03 tại cs NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/680-thong-bao-thay-d-i-phong-thi-gi-a-ky-hk2-22-23-ngay-10-03-t-i-cs-nvc)
  - [Thông báo thay đổi phòng thi HK2/22-23 ngày 09/03 tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/677-thong-bao-thay-d-i-phong-thi-gi-a-ky-hk1-22-23-ngay-09-03-t-i-nvc)
  - [Thông báo nhận đơn phúc khảo HK1/22-23 bậc ĐH hệ Chính quy tất cả các khóa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/668-thong-bao-nh-n-don-phuc-kh-o-hk1-22-23-b-c-dh-h-chinh-quy-t-t-c-cac-khoa)
  - [Thông báo nhận đơn phúc khảo HK1/22-23 các lớp Chương trình đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/667-thong-bao-nh-n-don-phuc-kh-o-hk1-22-23-cac-l-p-chuong-trinh-d-an-khoa-cntt)
  - [Thông báo nhận đơn phúc khảo HK1/22-23 lớp HCĐH 21HCB](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/666-thong-bao-nh-n-don-phuc-kh-o-hk1-22-23-l-p-hcdh-21hcb)
- - [Thông báo nhận đơn phúc khảo HK1/22-23 CT CLC, VP khoa Hóa, Sinh-CNSH, ĐTVT và MT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/665-thong-bao-nh-n-don-phuc-kh-o-hk1-22-23-ct-clc-vp-khoa-hoa-sinh-cnsh-dtvt-va-mt)
  - [Lịch thi HK2/22-23 lớp HCĐH 21HCB](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/679-l-ch-thi-hk2-22-23-l-p-hcdh-21hcb)
  - [Lịch thi HK1/22-23 lớp HCĐH 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/678-l-ch-thi-hk1-22-23-l-p-hcdh-22hcb)
  - [Lịch thi (chi tiết) cuối kỳ HK2/22-23 các lớp Hóa CLC, CKH](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/676-l-ch-thi-chi-ti-t-cu-i-ky-hk2-22-23-cac-l-p-hoa-clc-ckh)
