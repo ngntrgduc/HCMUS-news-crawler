@@ -1,4 +1,5 @@
 ### Các thông báo về Đào Tạo
+ - 06-04-2023: [Thông báo thu học phí sinh viên đại học hệ chính quy chương trình liên thông học kỳ 2 năm học 2022-2023 (lớp 21HCB)](https://www.hcmus.edu.vn/component/content/article/194-phong-dao-tao/thong-bao-lien-thong-dai-hoc/hoc-phi_lt/4947-thong-bao-thu-hoc-phi-sinh-vien-dai-hoc-he-chinh-quy-chuong-trinh-lien-thong-hoc-ky-2-nam-hoc-2022-2023-lop-21hcb?Itemid=437)
  - 05-04-2023: [Danh sách sinh viên tốt nghiệp đại học đợt tháng 3/2023 - tất cả các chương trình (update)](https://www.hcmus.edu.vn/component/content/article/189-phong-dao-tao/thong-bao-he-chinh-quy/tot-nghiep/4931-danh-sach-sinh-vien-tot-nghiep-dai-hoc-dot-thang-3-2023-tat-ca-cac-chuong-trinh-update?Itemid=437)
  - 01-04-2023: [Thông báo nghỉ học môn Sinh đại cương 1 / 22DCH](https://www.hcmus.edu.vn/component/content/article/117-phong-dao-tao/4940-thong-bao-nghi-hoc-mon-sinh-dai-cuong-1-22dch?Itemid=437)
  - 30-03-2023: [Thông báo nghỉ học ngày 31/03/2023 tại cơ sở 2 do cúp điện](https://www.hcmus.edu.vn/component/content/article/191-phong-dao-tao/thong-bao-he-chinh-quy/thong-bao-khac/4938-thong-bao-nghi-hoc-ngay-31-03-2023-tai-co-so-2-do-cup-dien?Itemid=437)
@@ -13,7 +14,6 @@
  - 17-03-2023: [Thông báo nghỉ học ngày 26/3/2023](https://www.hcmus.edu.vn/component/content/article/185-phong-dao-tao/thong-bao-he-chinh-quy/thay-doi-lich-hoc-phong-hoc/4908-thong-bao-nghi-hoc-ngay-26-3-2023?Itemid=437)
  - 07-03-2023: [Thông báo đổi phòng học môn Kinh tế đại cương và Pháp luật đại cương](https://www.hcmus.edu.vn/component/content/article/185-phong-dao-tao/thong-bao-he-chinh-quy/thay-doi-lich-hoc-phong-hoc/4898-thong-bao-doi-phong-hoc-mon-kinh-te-dai-cuong-va-phap-luat-dai-cuong?Itemid=437)
  - 06-03-2023: [Thông báo đăng ký học phần Giáo dục thể chất - môn Cờ Vua ](https://www.hcmus.edu.vn/component/content/article/186-phong-dao-tao/thong-bao-he-chinh-quy/dang-ky-hoc-phan/4896-thong-bao-dang-ky-hoc-phan-giao-duc-the-chat-mon-co-vua?Itemid=437)
- - 03-03-2023: [Thông báo nghỉ học môn Sinh đại cương 2](https://www.hcmus.edu.vn/component/content/article/191-phong-dao-tao/thong-bao-he-chinh-quy/thong-bao-khac/4893-thong-bao-nghi-hoc-mon-sinh-dai-cuong-2?Itemid=437)
 ### Các thông báo về Công tác sinh viên
  - 04-04-2023: [DSSV đã tham gia Sinh hoạt công dân cuối khóa ngày 02/04/2023](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/4945-dssv-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-ngay-02-04-2023?Itemid=437)
  - 04-04-2023: [THÔNG BÁO CHƯƠNG TRÌNH HỌC BỔNG BẬC ĐẠI HỌC PANASONIC NĂM 2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/4944-thong-bao-chuong-trinh-hoc-bong-bac-dai-hoc-panasonic-nam-2023?Itemid=437)
@@ -47,11 +47,11 @@
  - 08-07-2022: [THÔNG  BÁO VỀ DỊCH VỤ TƯ VẤN, ĐĂNG KÍ SÁNG CHẾ CỦA TT THÔNG TIN VÀ THỐNG KÊ KH&CN TP.HCM](https://www.hcmus.edu.vn/component/content/article?id=4442:thong-bao-ve-dich-vu-tu-van-dang-ki-sang-che-cua-tt-thong-tin-va-thong-ke-kh-cn-tphcm&catid=100&Itemid=437)
  - 28-06-2022: [[Thông báo] CT GROUP TUYỂN DỤNG 25.000 NHÂN TÀI CHO CHIẾN LƯỢC PHÁT TRIỂN TOÀN CẦU](https://www.hcmus.edu.vn/component/content/article/104-quan-he-doi-ngoai/thông-tin-dành-cho-sinh-viên/4415-thông-báo-ct-group-tuyển-dụng-25-000-nhân-tài-cho-chiến-lược-phát-triển-toàn-cầu?Itemid=437)
 ### Các thông báo về Khảo thí
+ - [Kế hoạch khảo sát sinh viên tốt nghiệp đợt tháng 3/2023](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/692-k-ho-ch-kh-o-sat-sinh-vien-t-t-nghi-p-d-t-thang-3-2023)
  - [Thông báo thay đổi phòng thi giữa kỳ HK2/22-23 ngày 10/03 tại cs NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/680-thong-bao-thay-d-i-phong-thi-gi-a-ky-hk2-22-23-ngay-10-03-t-i-cs-nvc)
  - [Thông báo thay đổi phòng thi HK2/22-23 ngày 09/03 tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/677-thong-bao-thay-d-i-phong-thi-gi-a-ky-hk1-22-23-ngay-09-03-t-i-nvc)
  - [Thông báo nhận đơn phúc khảo HK1/22-23 bậc ĐH hệ Chính quy tất cả các khóa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/668-thong-bao-nh-n-don-phuc-kh-o-hk1-22-23-b-c-dh-h-chinh-quy-t-t-c-cac-khoa)
  - [Thông báo nhận đơn phúc khảo HK1/22-23 các lớp Chương trình đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/667-thong-bao-nh-n-don-phuc-kh-o-hk1-22-23-cac-l-p-chuong-trinh-d-an-khoa-cntt)
- - [Thông báo nhận đơn phúc khảo HK1/22-23 lớp HCĐH 21HCB](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/666-thong-bao-nh-n-don-phuc-kh-o-hk1-22-23-l-p-hcdh-21hcb)
  - [Lịch thi (chi tiết) cuối kỳ HK2/22-23 các lớp Hóa CLC đợt 2](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/688-l-ch-thi-chi-ti-t-cu-i-ky-hk2-22-23-cac-l-p-hoa-clc-d-t-2)
  - [Lịch thi (chi tiết) giữa kỳ HK2/22-23 môn CSC14003 & CSC14004](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/687-l-ch-thi-chi-ti-t-gi-a-ky-hk2-22-23-mon-csc14003-csc14004)
  - [Lịch thi (chi tiết) cuối kỳ HK2/22-23 các lớp ĐTVT, MT, SINH-CLC](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/686-l-ch-thi-chi-ti-t-cu-i-ky-hk2-22-23-cac-l-p-dtvt-mt-sinh-clc)
