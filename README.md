@@ -31,6 +31,7 @@
  - 13-03-2023: [TB Đăng ký lịch Sinh hoạt Công dân Cuối khóa Năm học 2022-2023,  chuyên đề A (đợt bổ sung)](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/4903-tb-dang-ky-lich-sinh-hoat-cong-dan-cuoi-khoa-nam-hoc-2022-2023-chuyen-de-a-dot-bo-sung?Itemid=437)
  - 12-03-2023: [THÔNG BÁO  Chương trình Học bổng Đồng Hành kì 44 – Học kì 2 năm học 2022-2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/4902-thong-bao-chuong-trinh-hoc-bong-dong-hanh-ki-44-hoc-ki-2-nam-hoc-2022-2023?Itemid=437)
 ### Thông báo khác
+ - 10-04-2023: [Thư mời tham gia Hội nghị Khoa học trẻ lần 5 - năm 2023](https://www.hcmus.edu.vn/component/content/article?id=4953:thu-moi-tham-gia-hoi-nghi-khoa-hoc-tre-lan-5-nam-2023&catid=100&Itemid=437)
  - 05-04-2023: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ 2 NĂM HỌC 2022-2023](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4946-thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2022-2023?Itemid=437)
  - 23-02-2023: [VINIF - Thông tin chương trình tài trợ 2023](https://www.hcmus.edu.vn/component/content/article?id=4874:vinif-thong-tin-chuong-trinh-tai-tro-2023&catid=100&Itemid=437)
  - 19-01-2023: [Thông báo của Sở KH&CN tỉnh Tây Ninh về việc đề xuất, đặt hàng nhiệm vụ KH&CN cấp tỉnh năm 2024](https://www.hcmus.edu.vn/component/content/article?id=4825:thong-bao-cua-so-kh-cn-tinh-tay-ninh-ve-viec-de-xuat-dat-hang-nhiem-vu-kh-cn-cap-tinh-nam-2024&catid=100&Itemid=437)
@@ -45,7 +46,6 @@
  - 28-07-2022: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ III/2021-2022](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4480-thong-bao-thu-hoc-phi-hoc-ky-iii-2021-2022?Itemid=437)
  - 22-07-2022: [THÔNG BÁO THU HỌC PHÍ QUA VNPAY](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4465-thong-bao-thu-hoc-phi-qua-vnpay?Itemid=437)
  - 08-07-2022: [THÔNG  BÁO VỀ DỊCH VỤ TƯ VẤN, ĐĂNG KÍ SÁNG CHẾ CỦA TT THÔNG TIN VÀ THỐNG KÊ KH&CN TP.HCM](https://www.hcmus.edu.vn/component/content/article?id=4442:thong-bao-ve-dich-vu-tu-van-dang-ki-sang-che-cua-tt-thong-tin-va-thong-ke-kh-cn-tphcm&catid=100&Itemid=437)
- - 28-06-2022: [[Thông báo] CT GROUP TUYỂN DỤNG 25.000 NHÂN TÀI CHO CHIẾN LƯỢC PHÁT TRIỂN TOÀN CẦU](https://www.hcmus.edu.vn/component/content/article/104-quan-he-doi-ngoai/thông-tin-dành-cho-sinh-viên/4415-thông-báo-ct-group-tuyển-dụng-25-000-nhân-tài-cho-chiến-lược-phát-triển-toàn-cầu?Itemid=437)
 ### Các thông báo về Khảo thí
  - [Kế hoạch khảo sát sinh viên tốt nghiệp đợt tháng 3/2023](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/692-k-ho-ch-kh-o-sat-sinh-vien-t-t-nghi-p-d-t-thang-3-2023)
  - [Thông báo thay đổi phòng thi giữa kỳ HK2/22-23 ngày 10/03 tại cs NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/680-thong-bao-thay-d-i-phong-thi-gi-a-ky-hk2-22-23-ngay-10-03-t-i-cs-nvc)
