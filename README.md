@@ -47,11 +47,11 @@
  - 22-07-2022: [THÔNG BÁO THU HỌC PHÍ QUA VNPAY](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4465-thong-bao-thu-hoc-phi-qua-vnpay?Itemid=437)
  - 08-07-2022: [THÔNG  BÁO VỀ DỊCH VỤ TƯ VẤN, ĐĂNG KÍ SÁNG CHẾ CỦA TT THÔNG TIN VÀ THỐNG KÊ KH&CN TP.HCM](https://www.hcmus.edu.vn/component/content/article?id=4442:thong-bao-ve-dich-vu-tu-van-dang-ki-sang-che-cua-tt-thong-tin-va-thong-ke-kh-cn-tphcm&catid=100&Itemid=437)
 ### Các thông báo về Khảo thí
+ - [Thông báo thay đổi phòng thi HK2/22-23 CT Đề án tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/698-thong-bao-thay-d-i-phong-thi-hk2-22-23-ct-d-an-t-i-nvc)
  - [Kế hoạch khảo sát sinh viên tốt nghiệp đợt tháng 3/2023](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/692-k-ho-ch-kh-o-sat-sinh-vien-t-t-nghi-p-d-t-thang-3-2023)
  - [Thông báo thay đổi phòng thi giữa kỳ HK2/22-23 ngày 10/03 tại cs NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/680-thong-bao-thay-d-i-phong-thi-gi-a-ky-hk2-22-23-ngay-10-03-t-i-cs-nvc)
  - [Thông báo thay đổi phòng thi HK2/22-23 ngày 09/03 tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/677-thong-bao-thay-d-i-phong-thi-gi-a-ky-hk1-22-23-ngay-09-03-t-i-nvc)
  - [Thông báo nhận đơn phúc khảo HK1/22-23 bậc ĐH hệ Chính quy tất cả các khóa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/668-thong-bao-nh-n-don-phuc-kh-o-hk1-22-23-b-c-dh-h-chinh-quy-t-t-c-cac-khoa)
- - [Thông báo nhận đơn phúc khảo HK1/22-23 các lớp Chương trình đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/667-thong-bao-nh-n-don-phuc-kh-o-hk1-22-23-cac-l-p-chuong-trinh-d-an-khoa-cntt)
  - [Lịch thi chính thức HK2/22-23 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/697-l-ch-thi-chinh-th-c-hk2-22-23-h-dttx)
  - [Lịch thi chính thức HK2/22-23 các lớp CT Đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/696-l-ch-thi-chinh-th-c-hk2-22-23-cac-l-p-ct-d-an-khoa-cntt)
  - [Lịch thi (chi tiết) cuối kỳ HK1/22-23 lớp 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/695-l-ch-thi-chi-ti-t-cu-i-ky-hk1-22-23-l-p-22hcb)
