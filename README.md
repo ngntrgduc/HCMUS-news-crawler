@@ -55,7 +55,7 @@
  - [Lịch thi (chi tiết) cuối kỳ HK2/22-23 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/707-l-ch-thi-chi-ti-t-cu-i-ky-hk2-22-23-h-dttx)
  - [Lịch thi (chi tiết) cuối kỳ HK2/22-23 CTĐA khoa CNTT (CẬP NHẬT 26/04)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/705-l-ch-thi-chi-ti-t-cu-i-ky-hk2-22-23-ctda-khoa-cntt)
  - [Lịch thi (chi tiết) cuối kỳ sớm HK2/22-23 bổ sung môn ENV10002](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/704-l-ch-thi-chi-ti-t-cu-i-ky-s-m-hk2-22-23-b-sung-mon-env10002)
- - [Lịch thi (chi tiết) giữa kỳ HK3/22-23 Hóa CLC, VP](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/703-l-ch-thi-chi-ti-t-gi-a-ky-hk3-22-23-hoa-clc-vp)
+ - [Lịch thi (chi tiết) giữa kỳ HK3/22-23 Hóa CLC, VP (CẬP NHẬT 6/5)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/703-l-ch-thi-chi-ti-t-gi-a-ky-hk3-22-23-hoa-clc-vp)
  - [Lịch thi cuối kỳ sớm HK2/22-23 bổ sung môn Địa chất môi trường tại cs LT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/701-l-ch-thi-cu-i-ky-s-m-hk2-22-23-b-sung-mon-d-a-ch-t-moi-tru-ng-t-i-cs-lt)
  - [Kết quả thi giữa kỳ HK2/22-23 CLC (CẬP NHẬT 3/4)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/671-k-t-qu-thi-gi-a-ky-hk2-22-23-clc)
  - [Kết quả thi HK1/22-23 hệ Hoàn chỉnh Đại học](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/663-k-t-qu-thi-hk1-22-23-h-hoan-ch-nh-d-i-h-c)
