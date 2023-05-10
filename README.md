@@ -52,7 +52,7 @@
  - [Thông báo thay đổi phòng thi HK2/22-23 CT Đề án tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/698-thong-bao-thay-d-i-phong-thi-hk2-22-23-ct-d-an-t-i-nvc)
  - [Kế hoạch khảo sát sinh viên tốt nghiệp đợt tháng 3/2023](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/692-k-ho-ch-kh-o-sat-sinh-vien-t-t-nghi-p-d-t-thang-3-2023)
  - [Thông báo thay đổi phòng thi giữa kỳ HK2/22-23 ngày 10/03 tại cs NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/680-thong-bao-thay-d-i-phong-thi-gi-a-ky-hk2-22-23-ngay-10-03-t-i-cs-nvc)
- - [Lịch thi cuối kỳ HK2/22-23 chính quy tại LT và NVC (CẬP NHẬT 8/5)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/709-l-ch-thi-cu-i-ky-hk2-22-23-chinh-quy-t-i-lt-va-nvc)
+ - [Lịch thi cuối kỳ HK2/22-23 chính quy tại LT và NVC (CẬP NHẬT 9/5)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/709-l-ch-thi-cu-i-ky-hk2-22-23-chinh-quy-t-i-lt-va-nvc)
  - [Lịch thi (chi tiết) cuối kỳ HK2/22-23 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/707-l-ch-thi-chi-ti-t-cu-i-ky-hk2-22-23-h-dttx)
  - [Lịch thi (chi tiết) cuối kỳ HK2/22-23 CTĐA khoa CNTT (CẬP NHẬT 26/04)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/705-l-ch-thi-chi-ti-t-cu-i-ky-hk2-22-23-ctda-khoa-cntt)
  - [Lịch thi (chi tiết) cuối kỳ sớm HK2/22-23 bổ sung môn ENV10002](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/704-l-ch-thi-chi-ti-t-cu-i-ky-s-m-hk2-22-23-b-sung-mon-env10002)
