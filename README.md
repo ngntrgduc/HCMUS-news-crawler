@@ -15,6 +15,7 @@
  - 30-03-2023: [Thông báo nghỉ học ngày 31/03/2023 tại cơ sở 2 do cúp điện](https://www.hcmus.edu.vn/component/content/article/191-phong-dao-tao/thong-bao-he-chinh-quy/thong-bao-khac/4938-thong-bao-nghi-hoc-ngay-31-03-2023-tai-co-so-2-do-cup-dien?Itemid=437)
  - 30-03-2023: [Thông báo Đăng ký học phần học kỳ 2 / 2022-2023 cho sinh viên lớp Liên thông đại học](https://www.hcmus.edu.vn/component/content/article/193-phong-dao-tao/thong-bao-lien-thong-dai-hoc/dang-ky-hoc-phan_lt/4937-thong-baodang-ky-hoc-phan-hoc-ky-2-2022-2023-cho-sinh-vien-lop-lien-thong-dai-hoc?Itemid=437)
 ### Các thông báo về Công tác sinh viên
+ - 18-05-2023: [Thông báo phát thuốc tẩy giun và viên sắt miễn phí cho sinh viên đợt tháng 05/2023](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5000-thong-bao-phat-thuoc-tay-giun-va-vien-sat-mien-phi-cho-sinh-vien-dot-thang-05-2023?Itemid=437)
  - 17-05-2023: [Thông báo kết quả dự kiến học bổng năm học 2021-2022 dành cho SV Chương trình Đề án Khoa Công nghệ thông tin](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/4999-thong-bao-ket-qua-du-kien-hoc-bong-nam-hoc-2021-2022-danh-cho-sv-chuong-trinh-de-an-khoa-cong-nghe-thong-tin?Itemid=437)
  - 12-05-2023: [THÔNG BÁO  Học bổng “Thắp Sáng Ước Mơ” – Năm 2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/4989-thong-bao-hoc-bong-thap-sang-uoc-mo-nam-2023?Itemid=437)
  - 11-05-2023: [Thông báo kết quả chính thức học bổng khuyến khích học tập học kỳ 1/2022-2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/4988-thong-bao-ket-qua-chinh-thuc-hoc-bong-khuyen-khich-hoc-tap-hoc-ky-1-2022-2023?Itemid=437)
@@ -29,7 +30,6 @@
  - 07-04-2023: [Thông tin tuyển dụng: Công ty TNHH KHOA HỌC VÀ KỸ THUẬT REECO](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/4948-thong-tin-tuyen-dung-cong-ty-tnhh-khoa-hoc-va-ky-thuat-reeco?Itemid=437)
  - 04-04-2023: [DSSV đã tham gia Sinh hoạt công dân cuối khóa ngày 02/04/2023](https://www.hcmus.edu.vn/component/content/article/130-cong-tac-sinh-vien/thong-bao-sinh-hoat-cong-dan/4945-dssv-da-tham-gia-sinh-hoat-cong-dan-cuoi-khoa-ngay-02-04-2023?Itemid=437)
  - 04-04-2023: [THÔNG BÁO CHƯƠNG TRÌNH HỌC BỔNG BẬC ĐẠI HỌC PANASONIC NĂM 2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/4944-thong-bao-chuong-trinh-hoc-bong-bac-dai-hoc-panasonic-nam-2023?Itemid=437)
- - 03-04-2023: [Thông báo Học bổng SPE năm học 2022-2023 (Dành cho sinh viên Đại học là thành viên của hiệp hội Kỹ Sư Dầu Khí Việt Nam)](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/4942-thong-bao-hoc-bong-spe-nam-hoc-2022-2023-danh-cho-sinh-vien-dai-hoc-la-thanh-vien-cua-hiep-hoi-ky-su-dau-khi-viet-nam?Itemid=437)
 ### Thông báo khác
  - 10-04-2023: [Thư mời tham gia Hội nghị Khoa học trẻ lần 5 - năm 2023](https://www.hcmus.edu.vn/component/content/article?id=4953:thu-moi-tham-gia-hoi-nghi-khoa-hoc-tre-lan-5-nam-2023&catid=100&Itemid=437)
  - 05-04-2023: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ 2 NĂM HỌC 2022-2023](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4946-thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2022-2023?Itemid=437)
@@ -57,7 +57,7 @@
  - [Lịch thi (chi tiết) cuối kỳ HK2/22-23 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/707-l-ch-thi-chi-ti-t-cu-i-ky-hk2-22-23-h-dttx)
  - [Lịch thi (chi tiết) cuối kỳ HK2/22-23 CTĐA khoa CNTT (CẬP NHẬT 26/04)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/705-l-ch-thi-chi-ti-t-cu-i-ky-hk2-22-23-ctda-khoa-cntt)
  - [Lịch thi (chi tiết) cuối kỳ sớm HK2/22-23 bổ sung môn ENV10002](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/704-l-ch-thi-chi-ti-t-cu-i-ky-s-m-hk2-22-23-b-sung-mon-env10002)
- - [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 17/5)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
+ - [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 18/5)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
  - [Kết quả thi giữa kỳ HK2/22-23 CLC (CẬP NHẬT 8/5)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/671-k-t-qu-thi-gi-a-ky-hk2-22-23-clc)
  - [Kết quả thi HK1/22-23 hệ Hoàn chỉnh Đại học](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/663-k-t-qu-thi-hk1-22-23-h-hoan-ch-nh-d-i-h-c)
  - [Kết quả phúc khảo HK1/22-23_Hệ CQ_Đợt cuối](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-phuc-tra/691-k-t-qu-phuc-kh-o-hk1-22-23-h-cq-d-t-cu-i)
