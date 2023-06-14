@@ -31,8 +31,12 @@ with open(file, 'w', encoding='utf-8') as f:
         f.write(f' - {dates[i]}: [{news[i]}](https://www.hcmus.edu.vn{links[i]})\n')
     
     f.write(f'### {thong_bao[index]}\n')
+    rule_position = [5, 10, 13]
     for i in range(len(thong_bao_ctkt)):
-        f.writelines(f' - [{thong_bao_ctkt[i]}]({ctkt_link[i][:-2]})\n') # [:-2] to remove unnecessary characters (" )
+        if i in rule_position:
+            f.writelines(f'---\n - [{thong_bao_ctkt[i]}]({ctkt_link[i][:-2]})\n') # [:-2] to remove unnecessary characters (" )
+        else:    
+            f.writelines(f' - [{thong_bao_ctkt[i]}]({ctkt_link[i][:-2]})\n')
 f.close()
 
 readme = Path('README.txt')
