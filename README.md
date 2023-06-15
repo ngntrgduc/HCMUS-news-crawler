@@ -31,6 +31,7 @@
  - 17-05-2023: [Thông báo kết quả dự kiến học bổng năm học 2021-2022 dành cho SV Chương trình Đề án Khoa Công nghệ thông tin](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/4999-thong-bao-ket-qua-du-kien-hoc-bong-nam-hoc-2021-2022-danh-cho-sv-chuong-trinh-de-an-khoa-cong-nghe-thong-tin?Itemid=437)
  - 12-05-2023: [THÔNG BÁO  Học bổng “Thắp Sáng Ước Mơ” – Năm 2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/4989-thong-bao-hoc-bong-thap-sang-uoc-mo-nam-2023?Itemid=437)
 ### Thông báo khác
+ - 14-06-2023: [Thư mời viết bài Hội nghị Quốc tế về Hệ thống thông minh và Khoa học dữ liệu](https://www.hcmus.edu.vn/component/content/article?id=5042:thu-moi-viet-bai-hoi-nghi-quoc-te-ve-he-thong-thong-minh-va-khoa-hoc-du-lieu&catid=100&Itemid=437)
  - 10-04-2023: [Thư mời tham gia Hội nghị Khoa học trẻ lần 5 - năm 2023](https://www.hcmus.edu.vn/component/content/article?id=4953:thu-moi-tham-gia-hoi-nghi-khoa-hoc-tre-lan-5-nam-2023&catid=100&Itemid=437)
  - 05-04-2023: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ 2 NĂM HỌC 2022-2023](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4946-thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2022-2023?Itemid=437)
  - 23-02-2023: [VINIF - Thông tin chương trình tài trợ 2023](https://www.hcmus.edu.vn/component/content/article?id=4874:vinif-thong-tin-chuong-trinh-tai-tro-2023&catid=100&Itemid=437)
@@ -45,7 +46,6 @@
  - 04-08-2022: [CHƯƠNG TRÌNH KHUYẾN MÃI THANH TOÁN HỌC PHÍ QUA VNPAY](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4499-chuong-trinh-khuyen-mai-thanh-toan-hoc-phi-qua-vnpay?Itemid=437)
  - 28-07-2022: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ III/2021-2022](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4480-thong-bao-thu-hoc-phi-hoc-ky-iii-2021-2022?Itemid=437)
  - 22-07-2022: [THÔNG BÁO THU HỌC PHÍ QUA VNPAY](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4465-thong-bao-thu-hoc-phi-qua-vnpay?Itemid=437)
- - 08-07-2022: [THÔNG  BÁO VỀ DỊCH VỤ TƯ VẤN, ĐĂNG KÍ SÁNG CHẾ CỦA TT THÔNG TIN VÀ THỐNG KÊ KH&CN TP.HCM](https://www.hcmus.edu.vn/component/content/article?id=4442:thong-bao-ve-dich-vu-tu-van-dang-ki-sang-che-cua-tt-thong-tin-va-thong-ke-kh-cn-tphcm&catid=100&Itemid=437)
 ### Các thông báo về Khảo thí
  - [Thông báo phúc khảo HK2/22-23 CT đề án CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/722-thong-bao-phuc-kh-o-hk2-22-23-ct-d-an-cntt)
  - [Thông báo thay đổi phòng thi HK2/22-23 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/717-thong-bao-thay-d-i-phong-thi-hk2-22-23-h-dttx)
