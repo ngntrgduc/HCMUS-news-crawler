@@ -15,7 +15,7 @@
  - 22-05-2023: [Danh sách tốt nghiệp lớp Liên thông đại học, hệ chính quy - Tháng 5/2023](https://www.hcmus.edu.vn/component/content/article/195-phong-dao-tao/thong-bao-lien-thong-dai-hoc/tot-nghiep_lt/5005-danh-sach-tot-nghiep-lop-lien-thong-dai-hoc-he-chinh-quy-thang-5-2023?Itemid=437)
  - 19-05-2023: [Danh sách sinh viên tốt nghiệp đại học (tất cả các chương trình) - đợt tháng 5/2023 ](https://www.hcmus.edu.vn/component/content/article/189-phong-dao-tao/thong-bao-he-chinh-quy/tot-nghiep/5003-danh-sach-sinh-vien-tot-nghiep-dai-hoc-tat-ca-cac-chuong-trinh-dot-thang-5-2023?Itemid=437)
 ### Các thông báo về Công tác sinh viên
- - 26-06-2023: [THÔNG BÁO  Chương trình Giải thưởng Kova năm 2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5060-thong-bao-chuong-trinh-giai-thuong-kova-nam-2023?Itemid=437)
+ - 26-06-2023: [TB  Chương trình Giải thưởng Kova năm 2023](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5060-tb-chuong-trinh-giai-thuong-kova-nam-2023?Itemid=437)
  - 26-06-2023: [Thông báo về việc đăng ký nội trú tại KTX Trường năm học 2023 – 2024 ](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5058-thong-bao-ve-viec-dang-ky-noi-tru-tai-ktx-truong-nam-hoc-2023-2024?Itemid=437)
  - 19-06-2023: [[Tập Đoàn Hoa Sen Tuyển dụng] Thông tin về cơ hội tham gia dự án "phát thải khí nhà kính theo Tiêu chuẩn ISO Quốc Tế" dành cho Sinh Viên](https://www.hcmus.edu.vn/component/content/article/109-cong-tac-sinh-vien/thong-tin-danh-cho-sinh-vien/5048-tap-doan-hoa-sen-tuyen-dung-thong-tin-ve-co-hoi-tham-gia-du-an-phat-thai-khi-nha-kinh-theo-tieu-chuan-iso-quoc-te-danh-cho-sinh-vien?Itemid=437)
  - 19-06-2023: [Thông báo kết quả dự kiến HBKK HK1/22-23 CTĐA Khoa Công nghệ Thông tin ](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5047-thong-bao-ket-qua-du-kien-hbkk-hk1-22-23-ctda-khoa-cong-nghe-thong-tin?Itemid=437)
@@ -47,11 +47,11 @@
  - 28-07-2022: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ III/2021-2022](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4480-thong-bao-thu-hoc-phi-hoc-ky-iii-2021-2022?Itemid=437)
  - 22-07-2022: [THÔNG BÁO THU HỌC PHÍ QUA VNPAY](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4465-thong-bao-thu-hoc-phi-qua-vnpay?Itemid=437)
 ### Các thông báo về Khảo thí
+ - [Thông báo thay đổi phòng thi HK2/22-23 tại cơ sở NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/727-thong-bao-thay-d-i-phong-thi-hk2-22-23-t-i-co-s-nvc)
  - [Thông báo phúc khảo HK2/22-23 CT đề án CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/722-thong-bao-phuc-kh-o-hk2-22-23-ct-d-an-cntt)
  - [Thông báo thay đổi phòng thi HK2/22-23 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/717-thong-bao-thay-d-i-phong-thi-hk2-22-23-h-dttx)
  - [Thông báo sinh viên Đánh giá môn học - GV HK2/22-23](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/716-thong-bao-sinh-vien-danh-gia-mon-h-c-gv-hk2-22-23)
  - [Thông báo phúc khảo HK2/22-23 (CT đề án khoa Hóa, Sinh - CNSH, ĐTVT và Môi trường)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/713-thong-bao-phuc-kh-o-hk2-22-23-ct-d-an-khoa-hoa-sinh-cnsh-dtvt-va-moi-tru-ng)
- - [Thông báo phúc khảo HK1/22-23 HCĐH 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/712-thong-bao-phuc-kh-o-hk1-22-23-hcdh-22hcb)
 ---
  - [Lịch thi cuối kỳ HK3/22-23 CTĐA khoa Hóa, Sinh học - CNSH, ĐTVT và MT (CẬP NHẬT 20/6)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/725-l-ch-thi-cu-i-ky-hk3-22-23-ctda-khoa-hoa-sinh-h-c-cnsh-dtvt-va-mt)
  - [Lịch thi (chi tiết) giữa kỳ HK3/22-23 CT đề án khoa Hóa K2022](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/724-l-ch-thi-chi-ti-t-gi-a-ky-hk3-22-23-ct-d-an-khoa-hoa-k2022)
@@ -60,7 +60,7 @@
  - [Lịch thi (chi tiết) giữa kỳ HK3/22-23 CT đề án Sinh, ĐTVT và MT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/719-l-ch-thi-chi-ti-t-gi-a-ky-hk3-22-23-ct-d-an-sinh-dtvt-va-mt)
 ---
  - [Kết quả thi giữa kỳ HK3/22-23 CLC (CẬP NHẬT 19/6)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
- - [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 20/6)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
+ - [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 27/6)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
  - [Kết quả thi giữa kỳ HK2/22-23 CLC (CẬP NHẬT 8/5)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/671-k-t-qu-thi-gi-a-ky-hk2-22-23-clc)
 ---
  - [Kết quả phúc khảo HK2/22-23 CT Đề án khoa Hóa, Sinh-CNSH, ĐTVT và Môi trường](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-phuc-tra/726-k-t-qu-phuc-kh-o-hk2-22-23-ct-d-an-khoa-hoa-sinh-cnsh-dtvt-va-moi-tru-ng)
