@@ -31,6 +31,7 @@
  - 05-06-2023: [THÔNG BÁO HỌC BỔNG VALLET 2023 (Dành cho học viên Cao học)](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5031-thong-bao-hoc-bong-vallet-2023-danh-cho-hoc-vien-cao-hoc?Itemid=437)
  - 02-06-2023: [THÔNG BÁO HỌC BỔNG VALLET 2023 (Dành cho sinh viên Đại học)](https://www.hcmus.edu.vn/component/content/article/125-cong-tac-sinh-vien/thong-bao-hoc-bong/5028-thong-bao-hoc-bong-vallet-2023-danh-cho-sinh-vien-dai-hoc?Itemid=437)
 ### Thông báo khác
+ - 03-08-2023: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI NĂM 2023](https://www.hcmus.edu.vn/component/content/article?id=5116:thong-bao-giai-thuong-le-van-thoi-nam-2023&catid=100&Itemid=437)
  - 14-06-2023: [Thư mời viết bài Hội nghị Quốc tế về Hệ thống thông minh và Khoa học dữ liệu](https://www.hcmus.edu.vn/component/content/article?id=5042:thu-moi-viet-bai-hoi-nghi-quoc-te-ve-he-thong-thong-minh-va-khoa-hoc-du-lieu&catid=100&Itemid=437)
  - 10-04-2023: [Thư mời tham gia Hội nghị Khoa học trẻ lần 5 - năm 2023](https://www.hcmus.edu.vn/component/content/article?id=4953:thu-moi-tham-gia-hoi-nghi-khoa-hoc-tre-lan-5-nam-2023&catid=100&Itemid=437)
  - 05-04-2023: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ 2 NĂM HỌC 2022-2023](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4946-thong-bao-thu-hoc-phi-hoc-ky-2-nam-hoc-2022-2023?Itemid=437)
@@ -45,7 +46,6 @@
  - 13-09-2022: [Thông báo Giải thưởng Lê Văn Thới năm 2022](https://www.hcmus.edu.vn/component/content/article?id=4574:thong-bao-giai-thuong-le-van-thoi-nam-2022&catid=100&Itemid=437)
  - 04-08-2022: [CHƯƠNG TRÌNH KHUYẾN MÃI THANH TOÁN HỌC PHÍ QUA VNPAY](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4499-chuong-trinh-khuyen-mai-thanh-toan-hoc-phi-qua-vnpay?Itemid=437)
  - 28-07-2022: [THÔNG BÁO THU HỌC PHÍ HỌC KỲ III/2021-2022](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4480-thong-bao-thu-hoc-phi-hoc-ky-iii-2021-2022?Itemid=437)
- - 22-07-2022: [THÔNG BÁO THU HỌC PHÍ QUA VNPAY](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4465-thong-bao-thu-hoc-phi-qua-vnpay?Itemid=437)
 ### Các thông báo về Khảo thí
  - [Thông báo sinh viên đánh giá môn học - GV HK3/22-23 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/739-thong-bao-sinh-vien-danh-gia-mon-h-c-gv-hk3-22-23-ct-d-an-cac-khoa)
  - [Thông báo phúc khảo HK2/22-23  đại học hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/735-thong-bao-phuc-kh-o-hk2-22-23-d-i-h-c-h-chinh-quy)
