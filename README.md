@@ -53,11 +53,11 @@
  - [Thông báo phúc khảo HK2/22-23 lớp HCĐH 21HCB](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/728-thong-bao-phuc-kh-o-hk2-22-23-l-p-hcdh-21hcb)
  - [Thông báo thay đổi phòng thi HK2/22-23 tại cơ sở NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/727-thong-bao-thay-d-i-phong-thi-hk2-22-23-t-i-co-s-nvc)
 ---
+ - [Lịch thi HK3/22-23 CT đề án khoa Sinh học - CNSH (bổ sung)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/740-l-ch-thi-hk3-22-23-ct-d-an-khoa-sinh-h-c-cnsh-b-sung)
  - [Lịch thi HK3/22-23 CT Đề án CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/738-l-ch-thi-hk3-22-23-ct-d-an-cntt)
  - [Lịch thi HK3/22-23 Chính quy tại LT và NVC](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/737-l-ch-thi-hk3-22-23-chinh-quy-t-i-lt-va-nvc)
  - [Lịch thi giữa kỳ HK3/22-23 môn Giải tích hàm](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/736-l-ch-thi-gi-a-ky-hk3-22-23-mon-gi-i-tich-ham)
  - [Lịch thi (chi tiết) cuối kỳ HK3/22-23 CT đề án khoa Sinh](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/733-l-ch-thi-chi-ti-t-cu-i-ky-hk3-22-23-ct-d-an-khoa-sinh)
- - [Lịch thi (chi tiết) cuối kỳ HK3/22-23 CT đề án khoa ĐTVT và MT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/732-l-ch-thi-chi-ti-t-cu-i-ky-hk3-22-23-ct-d-an-dtvt-va-mt)
 ---
  - [Kết quả thi giữa kỳ HK3/22-23 CLC (CẬP NHẬT 12/7)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
  - [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 26/7)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
