@@ -47,11 +47,11 @@
  - 13-09-2022: [Thông báo Giải thưởng Lê Văn Thới năm 2022](https://www.hcmus.edu.vn/component/content/article?id=4574:thong-bao-giai-thuong-le-van-thoi-nam-2022&catid=100&Itemid=437)
  - 04-08-2022: [CHƯƠNG TRÌNH KHUYẾN MÃI THANH TOÁN HỌC PHÍ QUA VNPAY](https://www.hcmus.edu.vn/component/content/article/156-ke-hoach-tai-chinh/thong-bao-danh-cho-sinh-vien/4499-chuong-trinh-khuyen-mai-thanh-toan-hoc-phi-qua-vnpay?Itemid=437)
 ### Các thông báo về Khảo thí
+ - [Thông báo phúc khảo HK3/22-23 CT đề án khoa Hóa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/746-thong-bao-phuc-kh-o-hk3-22-23-ct-d-an-khoa-hoa)
  - [Quyết định, quy định về trách nhiệm cán bộ coi thi và người học trong các kỳ thi (CẬP NHẬT 2023)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/745-quy-t-d-nh-quy-d-nh-v-trach-nhi-m-can-b-coi-thi-va-ngu-i-h-c-trong-cac-ky-thi-c-p-nh-t-2023)
  - [Thông báo sinh viên đánh giá môn học - GV HK3/22-23 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/739-thong-bao-sinh-vien-danh-gia-mon-h-c-gv-hk3-22-23-ct-d-an-cac-khoa)
  - [Thông báo phúc khảo HK2/22-23  đại học hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/735-thong-bao-phuc-kh-o-hk2-22-23-d-i-h-c-h-chinh-quy)
  - [Thông báo phúc khảo HK2/22-23 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/734-thong-bao-phuc-kh-o-hk2-22-23-h-dttx)
- - [Thông báo phúc khảo HK2/22-23 lớp HCĐH 21HCB](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/728-thong-bao-phuc-kh-o-hk2-22-23-l-p-hcdh-21hcb)
 ---
  - [Lịch thi (chi tiết) cuối kỳ HK3/22-23 hệ ĐHCQ](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/744-l-ch-thi-chi-ti-t-cu-i-ky-hk3-22-23-h-dhcq)
  - [Lịch thi (chi tiết) cuối kỳ HK3/22-23 các lớp đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/743-l-ch-thi-chi-ti-t-cu-i-ky-hk3-22-23-cac-l-p-d-an-khoa-cntt)
