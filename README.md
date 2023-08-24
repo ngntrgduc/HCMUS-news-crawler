@@ -53,11 +53,11 @@
  - [Thông báo phúc khảo HK2/22-23  đại học hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/735-thong-bao-phuc-kh-o-hk2-22-23-d-i-h-c-h-chinh-quy)
  - [Thông báo phúc khảo HK2/22-23 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/734-thong-bao-phuc-kh-o-hk2-22-23-h-dttx)
 ---
+ - [Lịch thi (chi tiết) cuối kỳ HK2/22-23 HCĐH lớp 22B](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/747-l-ch-thi-chi-ti-t-cu-i-ky-hk2-22-23-hcdh-l-p-22b)
  - [Lịch thi (chi tiết) cuối kỳ HK3/22-23 hệ ĐHCQ](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/744-l-ch-thi-chi-ti-t-cu-i-ky-hk3-22-23-h-dhcq)
  - [Lịch thi (chi tiết) cuối kỳ HK3/22-23 các lớp đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/743-l-ch-thi-chi-ti-t-cu-i-ky-hk3-22-23-cac-l-p-d-an-khoa-cntt)
  - [Lịch thi (chi tiết) cuối kỳ HK3/22-23 CT ĐA khoa Sinh bổ sung môn BTE10023](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/742-l-ch-thi-chi-ti-t-cu-i-ky-hk3-22-23-ct-da-khoa-sinh-b-sung-mon-bte10023)
  - [Lịch thi HK2/22-23 (HCĐH 22HCB)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/741-l-ch-thi-hk2-22-23-hcdh-22hcb)
- - [Lịch thi HK3/22-23 CT đề án khoa Sinh học - CNSH (bổ sung)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/740-l-ch-thi-hk3-22-23-ct-d-an-khoa-sinh-h-c-cnsh-b-sung)
 ---
  - [Kết quả thi giữa kỳ HK3/22-23 CLC (CẬP NHẬT 12/7)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
  - [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 26/7)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
