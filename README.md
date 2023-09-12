@@ -59,7 +59,7 @@
  - [Lịch thi (chi tiết) cuối kỳ HK3/22-23 CT ĐA khoa Sinh bổ sung môn BTE10023](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/742-l-ch-thi-chi-ti-t-cu-i-ky-hk3-22-23-ct-da-khoa-sinh-b-sung-mon-bte10023)
  - [Lịch thi HK2/22-23 (HCĐH 22HCB)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/741-l-ch-thi-hk2-22-23-hcdh-22hcb)
 ---
- - [Kết quả thi giữa kỳ HK3/22-23 CLC (CẬP NHẬT 29/8)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
+ - [Kết quả thi giữa kỳ HK3/22-23 CLC (CẬP NHẬT 11/9)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
  - [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 26/7)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
  - [Kết quả thi giữa kỳ HK2/22-23 CLC (CẬP NHẬT 8/5)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/671-k-t-qu-thi-gi-a-ky-hk2-22-23-clc)
 ---
