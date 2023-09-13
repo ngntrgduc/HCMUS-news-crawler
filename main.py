@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup as bs
-from pathlib import Path
 import requests
 import re
 
@@ -17,10 +16,13 @@ ctkt = [i for i in soup.find_all(class_='feed-link')]
 thong_bao_ctkt = [''.join(re.sub(r'(\t|\n)', '', news.text)) for news in ctkt]
 ctkt_link = [''.join(re.findall('http.*" ', str(news))) for news in ctkt]
 
-thong_bao = ['Các thông báo về Đào Tạo', 'Các thông báo về Công tác sinh viên', 'Thông báo khác', 'Các thông báo về Khảo thí']
+thong_bao = ['Các thông báo về Đào Tạo', 
+             'Các thông báo về Công tác sinh viên', 
+             'Thông báo khác', 
+             'Các thông báo về Khảo thí']
 index = count = 0
-file = Path('README.md').rename(Path('README.md').with_suffix('.txt'))
-with open(file, 'w', encoding='utf-8') as f:
+
+with open('README.md', 'w', encoding='utf-8') as f:
     for i in range(len(dates)):
         if count == 0:
             f.write(f'### {thong_bao[index]}\n')
@@ -34,10 +36,7 @@ with open(file, 'w', encoding='utf-8') as f:
     rule_position = [5, 10, 13]
     for i in range(len(thong_bao_ctkt)):
         if i in rule_position:
-            f.writelines(f'---\n - [{thong_bao_ctkt[i]}]({ctkt_link[i][:-2]})\n') # [:-2] to remove unnecessary characters (" )
+            f.writelines(f'---\n - [{thong_bao_ctkt[i]}]({ctkt_link[i][:-2]})\n')  # [:-2] to remove unnecessary characters (" )
         else:    
             f.writelines(f' - [{thong_bao_ctkt[i]}]({ctkt_link[i][:-2]})\n')
 f.close()
-
-readme = Path('README.txt')
-readme.rename(readme.with_suffix('.md'))
