@@ -39,4 +39,3 @@ with open('README.md', 'w', encoding='utf-8') as f:
             f.writelines(f'---\n - [{thong_bao_ctkt[i]}]({ctkt_link[i][:-2]})\n')  # [:-2] to remove unnecessary characters (" )
         else:    
             f.writelines(f' - [{thong_bao_ctkt[i]}]({ctkt_link[i][:-2]})\n')
-f.close()
