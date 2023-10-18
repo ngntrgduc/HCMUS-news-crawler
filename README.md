@@ -53,11 +53,11 @@
  - [Thông báo phúc khảo HK3/22-23 CT đề án khoa Sinh-CNSH, ĐTVT và Môi trường](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/749-thong-bao-phuc-kh-o-hk3-22-23-ct-d-an-khoa-sinh-cnsh-dtvt-va-moi-tru-ng)
  - [Thông báo thay đổi phòng thi HK3/22-23 ngày 28/08](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/748-thong-bao-thay-d-i-phong-thi-hk3-22-23-ngay-28-08)
 ---
+ - [Lịch thi giữa kỳ HK1/23-24 CT đề án khoa Sinh-ĐTVT-Môi trường-Vật lý](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/759-l-ch-thi-gi-a-ky-hk1-23-24-ct-d-an-khoa-sinh-dtvt-moi-tru-ng-v-t-ly)
+ - [Lịch thi giữa kỳ HK1/23-24 CT đề án khoa Hóa K20,22,23](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/758-l-ch-thi-gi-a-ky-hk1-23-24-ct-d-an-khoa-hoa-k20-22-23)
  - [Lịch thi HK1/23-24 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/757-l-ch-thi-hk1-23-24-h-dttx)
  - [Lịch thi (chi tiết) giữa kỳ HK1/23-24 CT đề án khoa Hóa khóa 2021](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/756-l-ch-thi-chi-ti-t-gi-a-ky-hk1-23-24-ct-d-an-khoa-hoa-khoa-2021)
  - [Lịch thi (chi tiết) cuối kỳ sớm HK1/23-24 CT đề án khoa Hóa 2021](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/755-l-ch-thi-chi-ti-t-cu-i-ky-s-m-hk1-23-24-ct-d-an-khoa-hoa-2021)
- - [Lịch thi cuối kỳ sớm HK1/23-24 CT đề án khoa Hóa 2021](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/754-l-ch-thi-cu-i-ky-s-m-hk1-23-24-ct-d-an-khoa-hoa-2021)
- - [Lịch thi giữa kỳ HK1/23-24 CT đề án khoa Hóa khóa 2021 (CẬP NHẬT 3/10)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/753-l-ch-thi-gi-a-ky-hk1-23-24-ct-d-an-khoa-hoa-khoa-2021)
 ---
  - [Kết quả thi giữa kỳ HK3/22-23 (CẬP NHẬT 15/9)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
  - [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 26/7)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
