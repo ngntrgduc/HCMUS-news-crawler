@@ -53,11 +53,11 @@
  - [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt t8, 9, 10 năm 2023](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/764-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-t8-9-10-nam-2023)
  - [Thông báo thay đổi phòng thi HK1/23-24 ngày 21/10 tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/760-thong-bao-thay-d-i-phong-thi-hk1-23-24-ngay-21-10)
 ---
+ - [Lịch thi cuối kỳ HK1/23-24 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/777-l-ch-thi-cu-i-ky-hk1-23-24-ct-d-an-cac-khoa)
+ - [Lịch thi (chi tiết) giữa kỳ HK1/23-24 CQ khóa 2022](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/776-l-ch-thi-chi-ti-t-gi-a-ky-hk1-23-24-khoa-2022)
  - [Lịch thi cuối kỳ (sớm) HK1/23-24 chính quy tại LT và NVC (CẬP NHẬT 2/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/775-l-ch-thi-cu-i-ky-s-m-hk1-23-24-chinh-quy-t-i-lt-va-nvc)
  - [Lịch thi HK1/23-24 HCĐH lớp 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/774-l-ch-thi-hk1-23-24-hcdh-l-p-22hcb)
  - [Lịch thi HK1/23-24 CT đề án khoa Hóa K2021](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/772-l-ch-thi-hk1-23-24-ct-d-an-khoa-hoa-k2021)
- - [Lịch thi (chi tiết) giữa kỳ HK1/23-24 môn 'CSC14003' và 'BTE10305'](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/771-l-ch-thi-chi-ti-t-gi-a-ky-hk1-23-24-mon-csc14003-va-bte10305)
- - [Lịch thi (chi tiết) giữa kỳ HK1/23-24 tại LT và NVC](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/770-l-ch-thi-chi-ti-t-gi-a-ky-hk1-23-24-t-i-lt-va-nvc)
 ---
  - [Kết quả thi giữa kỳ HK3/22-23 (CẬP NHẬT 15/9)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
  - [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 26/7)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
