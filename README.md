@@ -1,1 +1,13 @@
-### Các thông báo về Đào Tạo
+### Tin tức
+ - **21/11**: [Thông báo kết quả dự kiến HBKK HK2/22-23 dành cho sinh viên các CTĐA](https://hcmus.edu.vn/thong-bao-ket-qua-du-kien-hbkk-hk2-22-23-danh-cho-sinh-vien-cac-ctda/)
+ - **17/11**: [Thông báo kết quả cung cấp thông tin lưu trú năm học 2023-2024 (tính đến 8h00 ngày 17/11/2023)](https://hcmus.edu.vn/thong-bao-ket-qua-cung-cap-thong-tin-luu-tru-nam-hoc-2023-2024-tinh-den-8h00-ngay-17-11-2023/)
+ - **16/11**: [Danh sách sinh viên dự kiến tốt nghiệp đại học, cao đẳng hệ chính quy – Đợt tháng 11/2023](https://hcmus.edu.vn/danh-sach-sinh-vien-du-kien-tot-nghiep-dai-hoc-cao-dang-he-chinh-quy-dot-thang-11-2023/)
+ - **16/11**: [Thông báo chuyển tiền học bổng khuyến khích học tập HK2/2022-2023](https://hcmus.edu.vn/thong-bao-chuyen-tien-hoc-bong-khuyen-khich-hoc-tap-hk2-2022-2023/)
+ - **16/11**: [Thông báo nộp học phí HK1/2023-2024 đối với sinh viên đại học ngành Công nghệ thông tin và Khoa học máy tính chương trình Tiên tiến, Liên kết Việt – Pháp và Chất lượng cao (cập nhật)](https://hcmus.edu.vn/thong-bao-nop-hoc-phi-hk1-2023-2024-doi-voi-sinh-vien-dai-hoc-nganh-cong-nghe-thong-tin-va-khoa-hoc-may-tinh-chuong-trinh-tien-tien-lien-ket-viet-phap-va-chat-luong-cao-cap-nhat/)
+ - **15/11**: [THÔNG BÁO KẾT QUẢ GIẢI THƯỞNG LÊ VĂN THỚI 2023](https://hcmus.edu.vn/thong-bao-ket-qua-giai-thuong-le-van-thoi-2023-2/)
+ - **15/11**: [THÔNG BÁO KẾT QUẢ GIẢI THƯỞNG LÊ VĂN THỚI 2023](https://hcmus.edu.vn/thong-bao-ket-qua-giai-thuong-le-van-thoi-2023/)
+ - **15/11**: [DSSV đã tham gia Sinh hoạt công dân đầu năm ngày 11 và 12/11/2023](https://hcmus.edu.vn/dssv-da-tham-gia-sinh-hoat-cong-dan-dau-nam-ngay-11-va-12-11-2023/)
+ - **14/11**: [Thông báo gia hạn thời gian cung cấp thông tin lưu trú năm học 2023-2024](https://hcmus.edu.vn/thong-bao-gia-han-thoi-gian-cung-cap-thong-tin-luu-tru-nam-hoc-2023-2024/)
+ - **14/11**: [Thông báo tạm dừng trang chủ Moodle](https://hcmus.edu.vn/thong-bao-tam-dung-trang-chu-moodle/)
+ - **13/11**: [[Thông báo] Thông tin học bổng Đại học Sư phạm Quốc gia Đài Loan, học kỳ Thu, năm học 2024-2025](https://hcmus.edu.vn/thong-bao-thong-tin-hoc-bong-dai-hoc-su-pham-quoc-gia-dai-loan-hoc-ky-thu-nam-hoc-2024-2025/)
+ - **13/11**: [[THÔNG BÁO] Webinar “Highlight your Future. Study in Austria” – Đại sứ quán Áo](https://hcmus.edu.vn/thong-bao-webinar-highlight-your-future-study-in-austria-dai-su-quan-ao/)
