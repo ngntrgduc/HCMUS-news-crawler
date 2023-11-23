@@ -4,13 +4,6 @@
  - **06/11**: [HỘI NGHỊ ĐÁNH GIÁ GIỮA KỲ THỰC HIỆN KẾ HOẠCH CHIẾN LƯỢC GIAI ĐOẠN 2021-2025](https://hcmus.edu.vn/hoi-nghi-danh-gia-giua-ky-thuc-hien-ke-hoach-chien-luoc-giai-doan-2021-2025/)
  - **01/11**: [ĐHQG-HCM TRIỂN KHAI CHƯƠNG TRÌNH MULTI-PROJECT WAFER](https://hcmus.edu.vn/dhqg-hcm-trien-khai-chuong-trinh-multi-project-wafe/)
  - **30/10**: [SINH VIÊN TRƯỜNG ĐẠT GIẢI THƯỞNG NỮ SINH KHOA HỌC CÔNG NGHỆ VIỆT NAM NĂM 2023](https://hcmus.edu.vn/sinh-vien-truong-dat-giai-thuong-nu-sinh-khoa-hoc-cong-nghe-viet-nam-nam-2023/)
- - **30/10**: [DIỄN ĐÀN KHOA HỌC – DOANH NGHIỆP VÀ ĐỔI MỚI SÁNG TẠO LẦN I – 2023](https://hcmus.edu.vn/dien-dan-khoa-hoc-doanh-nghiep-va-doi-moi-sang-tao-lan-i-2023/)
- - **03/10**: [ĐẠI HỌC QUỐC GIA CÔNG BỐ CHIẾN LƯỢC PHÁT TRIỂN ĐẾN NĂM 2030](https://hcmus.edu.vn/dai-hoc-quoc-gia-cong-bo-chien-luoc-phat-trien-den-nam-2030/)
- - **23/09**: [ĐÀO TẠO NHÂN LỰC VÀ NGHIÊN CỨU TRIỂN KHAI LĨNH VỰC VI MẠCH BÁN DẪN](https://hcmus.edu.vn/dao-tao-nhan-luc-va-nghien-cuu-trien-khai-linh-vuc-vi-mach-ban-dan/)
- - **22/09**: [NGHIÊN CỨU KHOA HỌC CỦA SINH VIÊN VÀ HỌC VIÊN CAO HỌC ĐƯỢC CHẤP NHẬN TẠI HỘI NGHỊ SỐ 1 THẾ GIỚI VỀ TRÍ TUỆ NHÂN TẠO.](https://hcmus.edu.vn/nghien-cuu-khoa-hoc-cua-sinh-vien-va-hoc-vien-cao-hoc-duoc-chap-nhan-tai-hoi-nghi-so-1-the-gioi-ve-tri-tue-nhan-tao/)
- - **19/09**: [LỄ KHAI GIẢNG NĂM HỌC 2023-2024](https://hcmus.edu.vn/le-khai-giang-nam-hoc-2023-2024/)
- - **09/09**: [CÔNG TRÌNH NGHIÊN CỨU ĐẠT GIẢI THƯỞNG SÁNG TẠO TP.HCM NĂM 2023](https://hcmus.edu.vn/cong-trinh-nghien-cuu-dat-giai-thuong-sang-tao-tphcm-nam-2023/)
- - **04/09**: [HCMUS CHÀO ĐÓN TÂN SINH VIÊN NHẬP HỌC](https://hcmus.edu.vn/hcmus-chao-don-tan-sinh-vien-nhap-hoc/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 

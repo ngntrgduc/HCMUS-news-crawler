@@ -12,9 +12,11 @@ def remove_year(date):
 
 with open('README.md', 'w', encoding='utf-8') as f:
     f.write(f'### Tin tức\n')
-    for date, new in zip(dates, news):
-        link = new.find('a')['href']
-        f.write(f" - **{remove_year(date)}**: [{new.text}]({link})\n")
+    for i, (date, new) in enumerate(zip(dates, news)):
+        # Chỉ lấy 5 tin tức mới nhất
+        if i < 5:
+            link = new.find('a')['href']
+            f.write(f" - **{remove_year(date)}**: [{new.text}]({link})\n")
 
 
 # Khảo thí và đảm bảo chất lượng
@@ -42,7 +44,6 @@ with open('README.md', 'a', encoding='utf-8') as f:
             index += 1 
 
         if in_range(i):
-            print(date[2:-1])
             date = remove_year(date.replace('\t', '').replace('\n', '')[1:-1])
             link = f"http://ktdbcl.hcmus.edu.vn{new['href']}"
             f.write(f" - **{date}**: [{new.text.strip()}]({link})\n")
