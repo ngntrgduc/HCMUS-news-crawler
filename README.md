@@ -1,28 +1,28 @@
 ### Tin tức
+ - **19/11**: [HỘI NGHỊ HỘI ĐỒNG TRƯỜNG LẦN THỨ 13, NĂM 2023](https://hcmus.edu.vn/hoi-nghi-hoi-dong-truong-lan-thu-13-nam-2023/)
  - **12/11**: [KHAI MẠC CUỘC THI SÁNG TẠO TẾ BÀO GỐC-STEM CELL INNOVATION](https://hcmus.edu.vn/khai-mac-cuoc-thi-sang-tao-te-bao-goc-stem-cell-innovation/)
  - **11/11**: [HƯỞNG ỨNG NGÀY PHÁP LUẬT NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM](https://hcmus.edu.vn/huong-ung-ngay-phap-luat-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam/)
  - **06/11**: [HỘI NGHỊ ĐÁNH GIÁ GIỮA KỲ THỰC HIỆN KẾ HOẠCH CHIẾN LƯỢC GIAI ĐOẠN 2021-2025](https://hcmus.edu.vn/hoi-nghi-danh-gia-giua-ky-thuc-hien-ke-hoach-chien-luoc-giai-doan-2021-2025/)
  - **01/11**: [ĐHQG-HCM TRIỂN KHAI CHƯƠNG TRÌNH MULTI-PROJECT WAFER](https://hcmus.edu.vn/dhqg-hcm-trien-khai-chuong-trinh-multi-project-wafe/)
- - **30/10**: [SINH VIÊN TRƯỜNG ĐẠT GIẢI THƯỞNG NỮ SINH KHOA HỌC CÔNG NGHỆ VIỆT NAM NĂM 2023](https://hcmus.edu.vn/sinh-vien-truong-dat-giai-thuong-nu-sinh-khoa-hoc-cong-nghe-viet-nam-nam-2023/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
 #### Thông báo
+ - **23/11**: [Thông báo thay đổi phòng thi HK1/23-24 hệ ĐTTX ngày 16/11](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/785-thong-bao-thay-d-i-phong-thi-hk1-23-24-h-dttx-ngay-16-11)
  - **30/10**: [Thông báo SV đánh giá khóa học HK1/23-24 (SV khóa 2020)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/773-thong-bao-sv-danh-gia-khoa-h-c-hk1-23-24-sv-khoa-2020)
  - **26/10**: [Thông báo bổ sung lịch thi giữa kỳ HK1/23-24 tại Linh trung](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/769-thong-bao-b-sung-l-ch-thi-gi-a-ky-hk1-23-24-t-i-linh-trung)
  - **26/10**: [Thông báo bổ sung lịch thi giữa kỳ HK1/23-24 môn 'Dược liệu học' tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/768-thong-bao-b-sung-l-ch-thi-gi-a-ky-hk1-23-24-mon-du-c-li-u-h-c-t-i-nvc)
  - **20/10**: [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt t8, 9, 10 năm 2023](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/764-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-t8-9-10-nam-2023)
- - **18/10**: [Thông báo thay đổi phòng thi HK1/23-24 ngày 21/10 tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/760-thong-bao-thay-d-i-phong-thi-hk1-23-24-ngay-21-10)
 
 #### Lịch thi
+ - **09/11**: [Lịch thi cuối kỳ HK1/23-24 CT đề án các khoa (CẬP NHẬT 23/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/777-l-ch-thi-cu-i-ky-hk1-23-24-ct-d-an-cac-khoa)
  - **22/11**: [Lịch thi cuối kỳ HK1/23-24 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/784-l-ch-thi-cu-i-ky-hk1-23-24-ct-d-an-khoa-cntt)
  - **21/11**: [Lịch thi cuối kỳ HK1/23-24 chính quy tại LT và NVC (CẬP NHẬT 22/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/782-l-ch-thi-cu-i-ky-hk1-23-24-chinh-quy-t-i-lt-va-nvc)
  - **21/11**: [Lịch thi (chi tiết) cuối kỳ HK1/23-24 CT đề án khoa Hóa K2021](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/779-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-ct-d-an-khoa-hoa-k2021)
  - **21/11**: [Lịch thi (chi tiết) giữa kỳ HK1/23-24 lớp 21CKH môn CHT10001](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/780-l-ch-thi-chi-ti-t-gi-a-ky-hk1-23-24-l-p-21ckh-mon-cht10001)
- - **21/11**: [Lịch thi (chi tiết) cuối kỳ sớm HK1/23-24 môn CHE10202](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/781-l-ch-thi-chi-ti-t-cu-i-ky-s-m-hk1-23-24-mon-che10202)
 
 #### Kết quả thi
- - **20/11**: [Kết quả thi giữa kỳ HK1/23-24](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
+ - **23/11**: [Kết quả thi giữa kỳ HK1/23-24 (CẬP NHẬT 23/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
  - **15/09**: [Kết quả thi giữa kỳ HK3/22-23 (CẬP NHẬT 15/9)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
  - **26/07**: [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 26/7)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
  - **08/05**: [Kết quả thi giữa kỳ HK2/22-23 CLC (CẬP NHẬT 8/5)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/671-k-t-qu-thi-gi-a-ky-hk2-22-23-clc)
