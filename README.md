@@ -1,9 +1,9 @@
 ### Tin tức
+ - **27/11**: [HOẠT ĐỘNG PHỤC VỤ CỘNG ĐỒNG CỦA KHOA ĐỊA CHẤT THÔNG QUA GIÁO DỤC STEAM](https://hcmus.edu.vn/hoat-dong-phuc-vu-cong-dong-cua-khoa-dia-chat-thong-qua-giao-duc-steam/)
  - **19/11**: [HỘI NGHỊ HỘI ĐỒNG TRƯỜNG LẦN THỨ 13, NĂM 2023](https://hcmus.edu.vn/hoi-nghi-hoi-dong-truong-lan-thu-13-nam-2023/)
  - **12/11**: [KHAI MẠC CUỘC THI SÁNG TẠO TẾ BÀO GỐC-STEM CELL INNOVATION](https://hcmus.edu.vn/khai-mac-cuoc-thi-sang-tao-te-bao-goc-stem-cell-innovation/)
  - **11/11**: [HƯỞNG ỨNG NGÀY PHÁP LUẬT NƯỚC CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM](https://hcmus.edu.vn/huong-ung-ngay-phap-luat-nuoc-cong-hoa-xa-hoi-chu-nghia-viet-nam/)
  - **06/11**: [HỘI NGHỊ ĐÁNH GIÁ GIỮA KỲ THỰC HIỆN KẾ HOẠCH CHIẾN LƯỢC GIAI ĐOẠN 2021-2025](https://hcmus.edu.vn/hoi-nghi-danh-gia-giua-ky-thuc-hien-ke-hoach-chien-luoc-giai-doan-2021-2025/)
- - **01/11**: [ĐHQG-HCM TRIỂN KHAI CHƯƠNG TRÌNH MULTI-PROJECT WAFER](https://hcmus.edu.vn/dhqg-hcm-trien-khai-chuong-trinh-multi-project-wafe/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
@@ -22,7 +22,7 @@
  - **21/11**: [Lịch thi (chi tiết) giữa kỳ HK1/23-24 lớp 21CKH môn CHT10001](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/780-l-ch-thi-chi-ti-t-gi-a-ky-hk1-23-24-l-p-21ckh-mon-cht10001)
 
 #### Kết quả thi
- - **23/11**: [Kết quả thi giữa kỳ HK1/23-24 (CẬP NHẬT 23/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
+ - **27/11**: [Kết quả thi giữa kỳ HK1/23-24 (CẬP NHẬT 27/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
  - **15/09**: [Kết quả thi giữa kỳ HK3/22-23 (CẬP NHẬT 15/9)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
  - **26/07**: [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 26/7)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
  - **08/05**: [Kết quả thi giữa kỳ HK2/22-23 CLC (CẬP NHẬT 8/5)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/671-k-t-qu-thi-gi-a-ky-hk2-22-23-clc)
