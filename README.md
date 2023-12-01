@@ -15,14 +15,14 @@
  - **20/10**: [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt t8, 9, 10 năm 2023](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/764-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-t8-9-10-nam-2023)
 
 #### Lịch thi
+ - **21/11**: [Lịch thi cuối kỳ HK1/23-24 chính quy tại LT và NVC (CẬP NHẬT 30/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/782-l-ch-thi-cu-i-ky-hk1-23-24-chinh-quy-t-i-lt-va-nvc)
  - **29/11**: [Lịch thi (chi tiết) cuối kỳ HK1/23-24 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/786-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-ct-d-an-cac-khoa)
  - **09/11**: [Lịch thi cuối kỳ HK1/23-24 CT đề án các khoa (CẬP NHẬT 23/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/777-l-ch-thi-cu-i-ky-hk1-23-24-ct-d-an-cac-khoa)
  - **22/11**: [Lịch thi cuối kỳ HK1/23-24 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/784-l-ch-thi-cu-i-ky-hk1-23-24-ct-d-an-khoa-cntt)
- - **21/11**: [Lịch thi cuối kỳ HK1/23-24 chính quy tại LT và NVC (CẬP NHẬT 22/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/782-l-ch-thi-cu-i-ky-hk1-23-24-chinh-quy-t-i-lt-va-nvc)
  - **21/11**: [Lịch thi (chi tiết) cuối kỳ HK1/23-24 CT đề án khoa Hóa K2021](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/779-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-ct-d-an-khoa-hoa-k2021)
 
 #### Kết quả thi
- - **27/11**: [Kết quả thi giữa kỳ HK1/23-24 (CẬP NHẬT 27/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
+ - **30/11**: [Kết quả thi giữa kỳ HK1/23-24 (CẬP NHẬT 30/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
  - **15/09**: [Kết quả thi giữa kỳ HK3/22-23 (CẬP NHẬT 15/9)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
  - **26/07**: [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 26/7)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
  - **08/05**: [Kết quả thi giữa kỳ HK2/22-23 CLC (CẬP NHẬT 8/5)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/671-k-t-qu-thi-gi-a-ky-hk2-22-23-clc)
