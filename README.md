@@ -8,11 +8,11 @@
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
 #### Thông báo
+ - **01/12**: [Thông báo thay đổi phòng thi HK1/23-24 ngày 06/12/2023](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/787-thong-bao-thay-d-i-phong-thi-hk1-23-24-ngay-06-12-2023)
  - **23/11**: [Thông báo thay đổi phòng thi HK1/23-24 hệ ĐTTX ngày 16/11](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/785-thong-bao-thay-d-i-phong-thi-hk1-23-24-h-dttx-ngay-16-11)
  - **30/10**: [Thông báo SV đánh giá khóa học HK1/23-24 (SV khóa 2020)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/773-thong-bao-sv-danh-gia-khoa-h-c-hk1-23-24-sv-khoa-2020)
  - **26/10**: [Thông báo bổ sung lịch thi giữa kỳ HK1/23-24 tại Linh trung](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/769-thong-bao-b-sung-l-ch-thi-gi-a-ky-hk1-23-24-t-i-linh-trung)
  - **26/10**: [Thông báo bổ sung lịch thi giữa kỳ HK1/23-24 môn 'Dược liệu học' tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/768-thong-bao-b-sung-l-ch-thi-gi-a-ky-hk1-23-24-mon-du-c-li-u-h-c-t-i-nvc)
- - **20/10**: [Thông báo khảo sát thông tin việc học việc làm của sinh viên tốt nghiệp đợt t8, 9, 10 năm 2023](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/764-thong-bao-kh-o-sat-thong-tin-vi-c-h-c-vi-c-lam-c-a-sinh-vien-t-t-nghi-p-d-t-t8-9-10-nam-2023)
 
 #### Lịch thi
  - **21/11**: [Lịch thi cuối kỳ HK1/23-24 chính quy tại LT và NVC (CẬP NHẬT 30/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/782-l-ch-thi-cu-i-ky-hk1-23-24-chinh-quy-t-i-lt-va-nvc)
