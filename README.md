@@ -15,11 +15,11 @@
  - **26/10**: [Thông báo bổ sung lịch thi giữa kỳ HK1/23-24 môn 'Dược liệu học' tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/768-thong-bao-b-sung-l-ch-thi-gi-a-ky-hk1-23-24-mon-du-c-li-u-h-c-t-i-nvc)
 
 #### Lịch thi
+ - **05/12**: [Lịch thi (chi tiết) cuối kỳ sớm HK1/23-24 ĐHCQ](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/789-l-ch-thi-chi-ti-t-cu-i-ky-s-m-hk1-23-24-dhcq)
+ - **05/12**: [Lịch thi (chi tiết) cuối kỳ HK1/23-24 hệ HCĐH](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/788-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-h-hcdh)
  - **21/11**: [Lịch thi cuối kỳ HK1/23-24 chính quy tại LT và NVC (CẬP NHẬT 30/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/782-l-ch-thi-cu-i-ky-hk1-23-24-chinh-quy-t-i-lt-va-nvc)
  - **29/11**: [Lịch thi (chi tiết) cuối kỳ HK1/23-24 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/786-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-ct-d-an-cac-khoa)
  - **09/11**: [Lịch thi cuối kỳ HK1/23-24 CT đề án các khoa (CẬP NHẬT 23/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/777-l-ch-thi-cu-i-ky-hk1-23-24-ct-d-an-cac-khoa)
- - **22/11**: [Lịch thi cuối kỳ HK1/23-24 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/784-l-ch-thi-cu-i-ky-hk1-23-24-ct-d-an-khoa-cntt)
- - **21/11**: [Lịch thi (chi tiết) cuối kỳ HK1/23-24 CT đề án khoa Hóa K2021](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/779-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-ct-d-an-khoa-hoa-k2021)
 
 #### Kết quả thi
  - **30/11**: [Kết quả thi giữa kỳ HK1/23-24 (CẬP NHẬT 30/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
