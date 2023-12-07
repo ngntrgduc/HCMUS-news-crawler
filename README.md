@@ -1,5 +1,5 @@
 ### Tin tức
- - **03/12**: [TRƯỜNG ĐH KHTN ĐẠT GIẢI NHẤT TOÀN ĐOÀN KỲ THI OLYMPIC VẬT LÝ SINH VIÊN TOÀN QUỐC￼](https://hcmus.edu.vn/truong-dh-khtn-dat-giai-nhat-toan-doan-ky-thi-olympic-vat-ly-sinh-vien-toan-quoc%ef%bf%bc/)
+ - **03/12**: [TRƯỜNG ĐH KHTN ĐẠT GIẢI NHẤT TOÀN ĐOÀN KỲ THI OLYMPIC VẬT LÝ SINH VIÊN TOÀN QUỐC](https://hcmus.edu.vn/truong-dh-khtn-dat-giai-nhat-toan-doan-ky-thi-olympic-vat-ly-sinh-vien-toan-quoc%ef%bf%bc/)
  - **29/11**: [SINH VIÊN TRƯỜNG NHẬN HỌC BỔNG “ƯỚC MƠ CHO EM”](https://hcmus.edu.vn/sinh-vien-truong-nhan-hoc-bong-uoc-mo-cho-em/)
  - **28/11**: [THÀNH TÍCH XUẤT SẮC TẠI GIẢI THƯỞNG SINH VIÊN NGHIÊN CỨU KHOA HỌC 2023](https://hcmus.edu.vn/thanh-tich-xuat-sac-tai-giai-thuong-sinh-vien-nghien-cuu-khoa-hoc-2023/)
  - **27/11**: [HOẠT ĐỘNG PHỤC VỤ CỘNG ĐỒNG CỦA KHOA ĐỊA CHẤT THÔNG QUA GIÁO DỤC STEAM](https://hcmus.edu.vn/hoat-dong-phuc-vu-cong-dong-cua-khoa-dia-chat-thong-qua-giao-duc-steam/)
