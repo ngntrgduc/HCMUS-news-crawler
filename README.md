@@ -1,9 +1,9 @@
 ### Tin tức
- - **13/12**: [THÔNG BÁO nhu cầu bổ nhiệm chức danh Giáo sư, Phó giáo sư năm 2023](https://hcmus.edu.vn/thong-bao-nhu-cau-bo-nhiem-chuc-danh-giao-su-pho-giao-su-nam-2023/)
  - **11/12**: [BÀI BÁO SINH VIÊN ĐƯỢC CHẤP NHẬN TẠI HỘI NGHỊ AAAI 2024](https://hcmus.edu.vn/bai-bao-sinh-vien-duoc-chap-nhan-tai-hoi-nghi-aaai-2024/)
  - **11/12**: [HỘI NGHỊ QUỐC TẾ VỀ NĂNG LƯỢNG BỀN VỮNG VÀ CÔNG NGHỆ XANH 2023 – SEGT 2023](https://hcmus.edu.vn/hoi-nghi-quoc-te-ve-nang-luong-ben-vung-va-cong-nghe-xanh-2023/)
  - **07/12**: [KIỂM ĐỊNH THEO TIÊU CHUẨN ASIIN CHO CỤM CHƯƠNG TRÌNH KHOA HỌC TRÁI ĐẤT](https://hcmus.edu.vn/kiem-dinh-theo-tieu-chuan-asiin-cho-cum-chuong-trinh-khoa-hoc-trai-dat/)
  - **03/12**: [TRƯỜNG ĐH KHTN ĐẠT GIẢI NHẤT TOÀN ĐOÀN KỲ THI OLYMPIC VẬT LÝ SINH VIÊN TOÀN QUỐC](https://hcmus.edu.vn/truong-dh-khtn-dat-giai-nhat-toan-doan-ky-thi-olympic-vat-ly-sinh-vien-toan-quoc%ef%bf%bc/)
+ - **29/11**: [SINH VIÊN TRƯỜNG NHẬN HỌC BỔNG “ƯỚC MƠ CHO EM”](https://hcmus.edu.vn/sinh-vien-truong-nhan-hoc-bong-uoc-mo-cho-em/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
