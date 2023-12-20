@@ -1,9 +1,9 @@
 ### Tin tức
+ - **19/12**: [HỌP MẶT TRI ÂN THẦY CÔ HƯỞNG CHẾ ĐỘ HƯU TRÍ 2023](https://hcmus.edu.vn/hop-mat-tri-an-thay-co-huong-che-do-huu-tri-2023/)
  - **18/12**: [QUÁN QUÂN VIETNAM DATATHON 2023](https://hcmus.edu.vn/quan-quan-vietnam-datathon-2023/)
  - **11/12**: [BÀI BÁO SINH VIÊN ĐƯỢC CHẤP NHẬN TẠI HỘI NGHỊ AAAI 2024](https://hcmus.edu.vn/bai-bao-sinh-vien-duoc-chap-nhan-tai-hoi-nghi-aaai-2024/)
  - **11/12**: [HỘI NGHỊ QUỐC TẾ VỀ NĂNG LƯỢNG BỀN VỮNG VÀ CÔNG NGHỆ XANH 2023 – SEGT 2023](https://hcmus.edu.vn/hoi-nghi-quoc-te-ve-nang-luong-ben-vung-va-cong-nghe-xanh-2023/)
  - **10/12**: [THÀNH TÍCH CAO TẠI KỲ THI OLYMPIC TIN HỌC SINH VIÊN VIỆT NAM VÀ LẬP TRÌNH SINH VIÊN QUỐC TẾ ICPC ASIA 2023](https://hcmus.edu.vn/thanh-tich-cao-tai-ky-thi-olympic-tin-hoc-sinh-vien-viet-nam-va-lap-trinh-sinh-vien-quoc-te-icpc-asia-2023/)
- - **09/12**: [KHAI MẠC HỘI NGHỊ CÁC NHÀ KHOA HỌC TRẺ TRONG LĨNH VỰC KHOA HỌC TỰ NHIÊN VÀ CÔNG NGHỆ](https://hcmus.edu.vn/khai-mac-hoi-nghi-cac-nha-khoa-hoc-tre-trong-linh-vuc-khoa-hoc-tu-nhien-va-cong-nghe/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
