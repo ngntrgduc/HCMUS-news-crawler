@@ -1,28 +1,28 @@
 ### Tin tức
+ - **20/12**: [Hội thảo về Xạ trị proton: Ý nghĩa Y khoa và Giải pháp Kỹ thuật](https://hcmus.edu.vn/hoi-thao-ve-xa-tri-proton-y-nghia-y-khoa-giai-phap-ky-thuat/)
+ - **19/12**: [LỄ KHÁNH THÀNH NÔNG TRẠI THÔNG MINH NHÂN SÂM MẦM (GINSENG SPROUTS SMART FARM) VÀ KHU THÍ NGHIỆM CHUNG (JOINT R&BD PLATFORM)](https://hcmus.edu.vn/le-khanh-thanh-nong-trai-thong-minh-nhan-sam-mam-ginseng-sprouts-smart-farm-va-khu-thi-nghiem-chung-joint-rbd-platform/)
  - **19/12**: [HỌP MẶT TRI ÂN THẦY CÔ HƯỞNG CHẾ ĐỘ HƯU TRÍ 2023](https://hcmus.edu.vn/hop-mat-tri-an-thay-co-huong-che-do-huu-tri-2023/)
  - **18/12**: [QUÁN QUÂN VIETNAM DATATHON 2023](https://hcmus.edu.vn/quan-quan-vietnam-datathon-2023/)
  - **11/12**: [BÀI BÁO SINH VIÊN ĐƯỢC CHẤP NHẬN TẠI HỘI NGHỊ AAAI 2024](https://hcmus.edu.vn/bai-bao-sinh-vien-duoc-chap-nhan-tai-hoi-nghi-aaai-2024/)
- - **11/12**: [HỘI NGHỊ QUỐC TẾ VỀ NĂNG LƯỢNG BỀN VỮNG VÀ CÔNG NGHỆ XANH 2023 – SEGT 2023](https://hcmus.edu.vn/hoi-nghi-quoc-te-ve-nang-luong-ben-vung-va-cong-nghe-xanh-2023/)
- - **10/12**: [THÀNH TÍCH CAO TẠI KỲ THI OLYMPIC TIN HỌC SINH VIÊN VIỆT NAM VÀ LẬP TRÌNH SINH VIÊN QUỐC TẾ ICPC ASIA 2023](https://hcmus.edu.vn/thanh-tich-cao-tai-ky-thi-olympic-tin-hoc-sinh-vien-viet-nam-va-lap-trinh-sinh-vien-quoc-te-icpc-asia-2023/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
 #### Thông báo
+ - **20/12**: [Thông báo thay đổi phòng thi HK1/23-24 tại NVC môn Hóa phân tích 1 ngày 29/12](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/794-thong-bao-thay-d-i-phong-thi-hk1-23-24-t-i-nvc-mon-hoa-phan-tich-1-ngay-29-12)
  - **08/12**: [Thông báo thay đổi phòng thi HK1/23-24 môn Vi tích phân 1C tại NVC ngày 14/12](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/792-thong-bao-thay-d-i-phong-thi-hk1-23-24-mon-vi-tich-phan-1c-t-i-nvc-ngay-14-12)
  - **07/12**: [Thông báo sinh viên đánh giá Môn học và Giảng viên HK1/2023-2024](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/790-thong-bao-sinh-vien-danh-gia-mon-h-c-va-gi-ng-vien-hk1-2023-2024)
  - **01/12**: [Thông báo thay đổi phòng thi HK1/23-24 ngày 06/12/2023](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/787-thong-bao-thay-d-i-phong-thi-hk1-23-24-ngay-06-12-2023)
  - **23/11**: [Thông báo thay đổi phòng thi HK1/23-24 hệ ĐTTX ngày 16/11](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/785-thong-bao-thay-d-i-phong-thi-hk1-23-24-h-dttx-ngay-16-11)
- - **30/10**: [Thông báo SV đánh giá khóa học HK1/23-24 (SV khóa 2020)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/773-thong-bao-sv-danh-gia-khoa-h-c-hk1-23-24-sv-khoa-2020)
 
 #### Lịch thi
+ - **20/12**: [Lịch thi (chi tiết) cuối kỳ HK1/23-24 chính quy tại LT và NVC (CẬP NHẬT 20/12)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/793-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-chinh-quy-t-i-lt-va-nvc)
+ - **20/12**: [Lịch thi (chi tiết) cuối kỳ HK1/23-24 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/795-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-ct-d-an-khoa-cntt)
  - **09/11**: [Lịch thi cuối kỳ HK1/23-24 CT đề án các khoa (CẬP NHẬT 11/12)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/777-l-ch-thi-cu-i-ky-hk1-23-24-ct-d-an-cac-khoa)
  - **05/12**: [Lịch thi (chi tiết) cuối kỳ sớm HK1/23-24 ĐHCQ](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/789-l-ch-thi-chi-ti-t-cu-i-ky-s-m-hk1-23-24-dhcq)
  - **05/12**: [Lịch thi (chi tiết) cuối kỳ HK1/23-24 hệ HCĐH](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/788-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-h-hcdh)
- - **21/11**: [Lịch thi cuối kỳ HK1/23-24 chính quy tại LT và NVC (CẬP NHẬT 30/11)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/782-l-ch-thi-cu-i-ky-hk1-23-24-chinh-quy-t-i-lt-va-nvc)
- - **29/11**: [Lịch thi (chi tiết) cuối kỳ HK1/23-24 CT đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/786-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-ct-d-an-cac-khoa)
 
 #### Kết quả thi
- - **13/12**: [Kết quả thi giữa kỳ HK1/23-24 (CẬP NHẬT 13/12)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
+ - **20/12**: [Kết quả thi giữa kỳ HK1/23-24 (CẬP NHẬT 20/12)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
  - **15/09**: [Kết quả thi giữa kỳ HK3/22-23 (CẬP NHẬT 15/9)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
  - **26/07**: [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 26/7)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
  - **08/05**: [Kết quả thi giữa kỳ HK2/22-23 CLC (CẬP NHẬT 8/5)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/671-k-t-qu-thi-gi-a-ky-hk2-22-23-clc)
