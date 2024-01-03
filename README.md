@@ -1,9 +1,9 @@
 ### Tin tức
+ - **31/12**: [HỘI NGHỊ ĐẠI BIỂU VIÊN CHỨC – NGƯỜI LAO ĐỘNG NĂM HỌC 2023- 2024](https://hcmus.edu.vn/hoi-nghi-dai-bieu-vien-chuc-nguoi-lao-dong-nam-hoc-2023-2024/)
  - **20/12**: [Hội thảo về Xạ trị proton: Ý nghĩa Y khoa và Giải pháp Kỹ thuật](https://hcmus.edu.vn/hoi-thao-ve-xa-tri-proton-y-nghia-y-khoa-giai-phap-ky-thuat/)
  - **19/12**: [LỄ KHÁNH THÀNH NÔNG TRẠI THÔNG MINH NHÂN SÂM MẦM (GINSENG SPROUTS SMART FARM) VÀ KHU THÍ NGHIỆM CHUNG (JOINT R&BD PLATFORM)](https://hcmus.edu.vn/le-khanh-thanh-nong-trai-thong-minh-nhan-sam-mam-ginseng-sprouts-smart-farm-va-khu-thi-nghiem-chung-joint-rbd-platform/)
  - **19/12**: [HỌP MẶT TRI ÂN THẦY CÔ HƯỞNG CHẾ ĐỘ HƯU TRÍ 2023](https://hcmus.edu.vn/hop-mat-tri-an-thay-co-huong-che-do-huu-tri-2023/)
  - **18/12**: [QUÁN QUÂN VIETNAM DATATHON 2023](https://hcmus.edu.vn/quan-quan-vietnam-datathon-2023/)
- - **11/12**: [BÀI BÁO SINH VIÊN ĐƯỢC CHẤP NHẬN TẠI HỘI NGHỊ AAAI 2024](https://hcmus.edu.vn/bai-bao-sinh-vien-duoc-chap-nhan-tai-hoi-nghi-aaai-2024/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
