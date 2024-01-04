@@ -1,9 +1,9 @@
 ### Tin tức
+ - **02/01**: [CÔNG BỐ QUYẾT ĐỊNH VÀ TRAO CỜ THI ĐUA BỘ GIÁO DỤC VÀ ĐÀO TẠO](https://hcmus.edu.vn/cong-bo-quyet-dinh-va-trao-co-thi-dua-bo-giao-duc-va-dao-tao/)
+ - **01/01**: [CHÚC MỪNG THẦY CÔ ĐƯỢC PHONG TẶNG DANH HIỆU NHÀ GIÁO ƯU TÚ](https://hcmus.edu.vn/40378-2/)
  - **31/12**: [HỘI NGHỊ ĐẠI BIỂU VIÊN CHỨC – NGƯỜI LAO ĐỘNG NĂM HỌC 2023- 2024](https://hcmus.edu.vn/hoi-nghi-dai-bieu-vien-chuc-nguoi-lao-dong-nam-hoc-2023-2024/)
- - **20/12**: [Hội thảo về Xạ trị proton: Ý nghĩa Y khoa và Giải pháp Kỹ thuật](https://hcmus.edu.vn/hoi-thao-ve-xa-tri-proton-y-nghia-y-khoa-giai-phap-ky-thuat/)
- - **19/12**: [LỄ KHÁNH THÀNH NÔNG TRẠI THÔNG MINH NHÂN SÂM MẦM (GINSENG SPROUTS SMART FARM) VÀ KHU THÍ NGHIỆM CHUNG (JOINT R&BD PLATFORM)](https://hcmus.edu.vn/le-khanh-thanh-nong-trai-thong-minh-nhan-sam-mam-ginseng-sprouts-smart-farm-va-khu-thi-nghiem-chung-joint-rbd-platform/)
- - **19/12**: [HỌP MẶT TRI ÂN THẦY CÔ HƯỞNG CHẾ ĐỘ HƯU TRÍ 2023](https://hcmus.edu.vn/hop-mat-tri-an-thay-co-huong-che-do-huu-tri-2023/)
- - **18/12**: [QUÁN QUÂN VIETNAM DATATHON 2023](https://hcmus.edu.vn/quan-quan-vietnam-datathon-2023/)
+ - **30/12**: [LỄ CÔNG BỐ QUYẾT ĐỊNH BỔ NHIỆM LẠI PHÓ HIỆU TRƯỞNG](https://hcmus.edu.vn/le-cong-bo-quyet-dinh-bo-nhiem-lai-pho-hieu-truong/)
+ - **20/12**: [HỘI NGHỊ HỘI ĐỒNG TRƯỜNG LẦN THỨ 14, NĂM 2023](https://hcmus.edu.vn/hoi-nghi-hoi-dong-truong-lan-thu-14-nam-2023/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
