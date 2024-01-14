@@ -1,9 +1,9 @@
 ### Tin tức
+ - **13/01**: [LỄ TRAO HỌC BỔNG CHƯƠNG TRÌNH TRỌNG ĐIỂM QUỐC GIA PHÁT TRIỂN TOÁN HỌC](https://hcmus.edu.vn/le-tuyen-duong-sinh-vien-hoc-ky-1-nam-hoc-2023-2024/)
  - **09/01**: [SỰ KIỆN THAM QUAN, TƯ VẤN HƯỚNG NGHIỆP TẠI TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM NĂM 2024](https://hcmus.edu.vn/su-kien-tham-quan-tu-van-huong-nghiep-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-cs2-nam-2023/)
  - **02/01**: [CÔNG BỐ QUYẾT ĐỊNH VÀ TRAO CỜ THI ĐUA BỘ GIÁO DỤC VÀ ĐÀO TẠO](https://hcmus.edu.vn/cong-bo-quyet-dinh-va-trao-co-thi-dua-bo-giao-duc-va-dao-tao/)
  - **01/01**: [CHÚC MỪNG THẦY CÔ ĐƯỢC PHONG TẶNG DANH HIỆU NHÀ GIÁO ƯU TÚ](https://hcmus.edu.vn/40378-2/)
  - **31/12**: [HỘI NGHỊ ĐẠI BIỂU VIÊN CHỨC – NGƯỜI LAO ĐỘNG NĂM HỌC 2023- 2024](https://hcmus.edu.vn/hoi-nghi-dai-bieu-vien-chuc-nguoi-lao-dong-nam-hoc-2023-2024/)
- - **30/12**: [LỄ CÔNG BỐ QUYẾT ĐỊNH BỔ NHIỆM LẠI PHÓ HIỆU TRƯỞNG](https://hcmus.edu.vn/le-cong-bo-quyet-dinh-bo-nhiem-lai-pho-hieu-truong/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
