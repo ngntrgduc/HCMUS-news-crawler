@@ -22,11 +22,11 @@
  - **05/12**: [Lịch thi (chi tiết) cuối kỳ sớm HK1/23-24 ĐHCQ](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/789-l-ch-thi-chi-ti-t-cu-i-ky-s-m-hk1-23-24-dhcq)
 
 #### Kết quả thi
+ - **17/01**: [Thông báo về việc Tra cứu Kết quả học tập](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/798-thong-bao-v-vi-c-tra-c-u-k-t-qu-h-c-t-p)
  - **20/12**: [Kết quả thi giữa kỳ HK1/23-24 (CẬP NHẬT 20/12)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/778-k-t-qu-thi-gi-a-ky-hk1-23-24)
  - **15/09**: [Kết quả thi giữa kỳ HK3/22-23 (CẬP NHẬT 15/9)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/714-k-t-qu-thi-gi-a-ky-hk3-22-23-clc)
  - **26/07**: [Kết quả thi giữa kỳ HK2/22-23 ĐHCQ (CẬP NHẬT 26/7)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/708-k-t-qu-thi-gi-a-ky-hk2-22-23-dhcq)
  - **08/05**: [Kết quả thi giữa kỳ HK2/22-23 CLC (CẬP NHẬT 8/5)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/671-k-t-qu-thi-gi-a-ky-hk2-22-23-clc)
- - **08/02**: [Kết quả thi HK1/22-23 hệ Hoàn chỉnh Đại học](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/663-k-t-qu-thi-hk1-22-23-h-hoan-ch-nh-d-i-h-c)
 
 #### Kết quả phúc khảo
  - **25/06**: [Kết quả phúc khảo HK2/22-23 CT Đề án khoa Hóa, Sinh-CNSH, ĐTVT và Môi trường](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-phuc-tra/726-k-t-qu-phuc-kh-o-hk2-22-23-ct-d-an-khoa-hoa-sinh-cnsh-dtvt-va-moi-tru-ng)
