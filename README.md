@@ -1,9 +1,9 @@
 ### Tin tức
+ - **24/01**: [SỰ KIỆN THAM QUAN, TƯ VẤN HƯỚNG NGHIỆP TẠI TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM NĂM 2024 (Lần thứ 2)](https://hcmus.edu.vn/su-kien-tham-quan-tu-van-huong-nghiep-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-nam-2024-lan-thu-2/)
  - **23/01**: [THAM QUAN, CHIA SẺ KINH NGHIỆM VỀ ÁP DỤNG HỆ THỐNG QUẢN LÝ CHẤT LƯỢNG TẠI TRƯỜNG ĐH BÁCH KHOA](https://hcmus.edu.vn/tham-quan-chia-se-kinh-nghiem-ve-ap-dung-he-thong-quan-ly-chat-luong-tai-truong-dh-bach-khoa/)
+ - **22/01**: [HỘI CHỢ XUÂN GIÁP THÌN NĂM 2024](https://hcmus.edu.vn/hoi-cho-xuan-giap-thin-nam-2024/)
  - **15/01**: [HẤP DẪN NGÀY HỘI KHOA HỌC TRÁI ĐẤT LẦN THỨ 1](https://hcmus.edu.vn/hap-dan-ngay-hoi-khoa-hoc-trai-dat-lan-thu-1/)
  - **13/01**: [LỄ TRAO HỌC BỔNG CHƯƠNG TRÌNH TRỌNG ĐIỂM QUỐC GIA PHÁT TRIỂN TOÁN HỌC](https://hcmus.edu.vn/le-tuyen-duong-sinh-vien-hoc-ky-1-nam-hoc-2023-2024/)
- - **09/01**: [SỰ KIỆN THAM QUAN, TƯ VẤN HƯỚNG NGHIỆP TẠI TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM NĂM 2024](https://hcmus.edu.vn/su-kien-tham-quan-tu-van-huong-nghiep-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-cs2-nam-2023/)
- - **02/01**: [CÔNG BỐ QUYẾT ĐỊNH VÀ TRAO CỜ THI ĐUA BỘ GIÁO DỤC VÀ ĐÀO TẠO](https://hcmus.edu.vn/cong-bo-quyet-dinh-va-trao-co-thi-dua-bo-giao-duc-va-dao-tao/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
