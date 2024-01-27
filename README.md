@@ -8,11 +8,11 @@
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
 #### Thông báo
+ - **26/01**: [Thông báo thay đổi phòng thi giữa kỳ HK2/23-24 ngày 30/1 tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/801-thong-bao-thay-d-i-phong-thi-gi-a-ky-hk2-23-24-ngay-30-1-t-i-nvc)
  - **23/01**: [Thông báo phúc khảo HK1/23-24 HCĐH 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/800-thong-bao-phuc-kh-o-hk1-23-24-hcdh-22hcb)
  - **18/01**: [Thông báo phúc khảo HK1/23-24 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/799-thong-bao-phuc-kh-o-hk1-23-24-ct-d-an-cac-khoa)
  - **27/12**: [Thông báo phúc khảo HK1/23-24 ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/796-thong-bao-phuc-kh-o-hk1-23-24-dttx)
  - **20/12**: [Thông báo thay đổi phòng thi HK1/23-24 tại NVC môn Hóa phân tích 1 ngày 29/12](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/794-thong-bao-thay-d-i-phong-thi-hk1-23-24-t-i-nvc-mon-hoa-phan-tich-1-ngay-29-12)
- - **08/12**: [Thông báo thay đổi phòng thi HK1/23-24 môn Vi tích phân 1C tại NVC ngày 14/12](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/792-thong-bao-thay-d-i-phong-thi-hk1-23-24-mon-vi-tich-phan-1c-t-i-nvc-ngay-14-12)
 
 #### Lịch thi
  - **28/12**: [Lịch thi giữa kỳ HK2/23-24 CT đề án khoa Hóa (Khoá 2021)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/797-l-ch-thi-gi-a-ky-hk2-23-24-ct-d-an-khoa-hoa-khoa-2021)
