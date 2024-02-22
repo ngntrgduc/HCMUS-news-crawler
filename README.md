@@ -1,9 +1,9 @@
 ### Tin tức
+ - **21/02**: [LỄ VINH DANH NHÀ GIÁO ĐƯỢC BỔ NHIỆM CHỨC DANH GIÁO SƯ, PHÓ GIÁO SƯ](https://hcmus.edu.vn/le-vinh-danh-nha-giao-duoc-bo-nhiem-chuc-danh-giao-su-pho-giao-su/)
  - **16/02**: [ỨNG DỤNG TRÍ TUỆ NHÂN TẠO CHUYỂN CHỮ NÔM SANG CHỮ QUỐC NGỮ](https://hcmus.edu.vn/ung-dung-tri-tue-nhan-tao-chuyen-chu-nom-sang-chu-quoc-ngu/)
  - **04/02**: [HỘI NGHỊ HỘI ĐỒNG TRƯỜNG LẦN 15, KHÓA I, NHIỆM KỲ 2020-2025](https://hcmus.edu.vn/hoi-nghi-hoi-dong-truong-lan-15-khoa-i-nhiem-ky-2020-2025-ngay-26-01-2024/)
  - **26/01**: [TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM MỞ NGÀNH MỚI, TĂNG CHỈ TIÊU TUYỂN SINH](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-mo-nganh-moi-tang-chi-tieu-tuyen-sinh/)
  - **24/01**: [CHƯƠNG TRÌNH THẠC SĨ TOÁN ỨNG DỤNG VIỆT – PHÁP: NƠI ƯƠM MẦM CHO 160 TIẾN SĨ](https://hcmus.edu.vn/chuong-trinh-thac-si-toan-ung-dung-viet-phap-noi-uom-mam-cho-160-tien-si/)
- - **24/01**: [SỰ KIỆN THAM QUAN, TƯ VẤN HƯỚNG NGHIỆP TẠI TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM NĂM 2024 (Lần thứ 2)](https://hcmus.edu.vn/su-kien-tham-quan-tu-van-huong-nghiep-tai-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-nam-2024-lan-thu-2/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
