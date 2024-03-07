@@ -1,9 +1,9 @@
 ### Tin tức
+ - **04/03**: [CÁC CHƯƠNG TRÌNH TÀI TRỢ VÀ HỢP TÁC CỦA QUỸ VINIF NĂM 2024](https://hcmus.edu.vn/cac-chuong-trinh-tai-tro-va-hop-tac-cua-quy-vinif-nam-2024/)
  - **29/02**: [MAMM 2024 – HO CHI MINH CITY, VIETNAM – The 7th Conference on Microactuators, Microsensors and Micromechanisms](https://hcmus.edu.vn/mamm-2024-ho-chi-minh-city-vietnam-the-7th-conference-on-microactuators-microsensors-and-micromechanisms/)
  - **21/02**: [LỄ VINH DANH NHÀ GIÁO ĐƯỢC BỔ NHIỆM CHỨC DANH GIÁO SƯ, PHÓ GIÁO SƯ](https://hcmus.edu.vn/le-vinh-danh-nha-giao-duoc-bo-nhiem-chuc-danh-giao-su-pho-giao-su/)
  - **16/02**: [ỨNG DỤNG TRÍ TUỆ NHÂN TẠO CHUYỂN CHỮ NÔM SANG CHỮ QUỐC NGỮ](https://hcmus.edu.vn/ung-dung-tri-tue-nhan-tao-chuyen-chu-nom-sang-chu-quoc-ngu/)
  - **04/02**: [HỘI NGHỊ HỘI ĐỒNG TRƯỜNG LẦN 15, KHÓA I, NHIỆM KỲ 2020-2025](https://hcmus.edu.vn/hoi-nghi-hoi-dong-truong-lan-15-khoa-i-nhiem-ky-2020-2025-ngay-26-01-2024/)
- - **26/01**: [TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM MỞ NGÀNH MỚI, TĂNG CHỈ TIÊU TUYỂN SINH](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-mo-nganh-moi-tang-chi-tieu-tuyen-sinh/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
