@@ -1,9 +1,9 @@
 ### Tin tức
  - **04/03**: [CÁC CHƯƠNG TRÌNH TÀI TRỢ VÀ HỢP TÁC CỦA QUỸ VINIF NĂM 2024](https://hcmus.edu.vn/cac-chuong-trinh-tai-tro-va-hop-tac-cua-quy-vinif-nam-2024/)
+ - **03/03**: [ĐỘI TUYỂN TRƯỜNG XUẤT SẮC VÀO VÒNG CHUNG KẾT ICPC TOÀN CẦU](https://hcmus.edu.vn/doi-tuyen-truong-xuat-sac-vao-vong-chung-ket-icpc-toan-cau/)
  - **29/02**: [MAMM 2024 – HO CHI MINH CITY, VIETNAM – The 7th Conference on Microactuators, Microsensors and Micromechanisms](https://hcmus.edu.vn/mamm-2024-ho-chi-minh-city-vietnam-the-7th-conference-on-microactuators-microsensors-and-micromechanisms/)
  - **21/02**: [LỄ VINH DANH NHÀ GIÁO ĐƯỢC BỔ NHIỆM CHỨC DANH GIÁO SƯ, PHÓ GIÁO SƯ](https://hcmus.edu.vn/le-vinh-danh-nha-giao-duoc-bo-nhiem-chuc-danh-giao-su-pho-giao-su/)
  - **16/02**: [ỨNG DỤNG TRÍ TUỆ NHÂN TẠO CHUYỂN CHỮ NÔM SANG CHỮ QUỐC NGỮ](https://hcmus.edu.vn/ung-dung-tri-tue-nhan-tao-chuyen-chu-nom-sang-chu-quoc-ngu/)
- - **04/02**: [HỘI NGHỊ HỘI ĐỒNG TRƯỜNG LẦN 15, KHÓA I, NHIỆM KỲ 2020-2025](https://hcmus.edu.vn/hoi-nghi-hoi-dong-truong-lan-15-khoa-i-nhiem-ky-2020-2025-ngay-26-01-2024/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
@@ -15,11 +15,11 @@
  - **27/12**: [Thông báo phúc khảo HK1/23-24 ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/796-thong-bao-phuc-kh-o-hk1-23-24-dttx)
 
 #### Lịch thi
+ - **07/03**: [Lịch thi cuối kỳ HK2/23-24 CTĐA khoa Hóa khóa K2021](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/806-l-ch-thi-cu-i-ky-hk2-23-24-ctda-khoa-hoa-khoa-k2021)
  - **31/01**: [Lịch thi giữa kỳ HK2/23-24 CT đề án khoa Sinh, DTVT, Môi trường (CẬP NHẬT 04/03)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/803-l-ch-thi-gi-a-ky-hk2-23-24-ct-d-an-khoa-sinh-dtvt-moi-tru-ng)
  - **19/02**: [Lịch thi cuối kỳ sớm HK2/23-24 CT đề án khoa Hóa, Sinh-CNSH](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/804-l-ch-thi-cu-i-ky-s-m-hk2-23-24-ct-d-an-khoa-hoa-sinh-cnsh)
  - **31/01**: [Lịch thi giữa kỳ HK2/23-24 CT đề án khoa Hóa K20, 22, 23](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/802-l-ch-thi-gi-a-ky-hk2-23-24-ct-d-an-khoa-hoa-k20-22-23)
  - **28/12**: [Lịch thi giữa kỳ HK2/23-24 CT đề án khoa Hóa (Khoá 2021)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/797-l-ch-thi-gi-a-ky-hk2-23-24-ct-d-an-khoa-hoa-khoa-2021)
- - **20/12**: [Lịch thi (chi tiết) cuối kỳ HK1/23-24 chính quy tại LT và NVC (CẬP NHẬT 20/12)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/793-l-ch-thi-chi-ti-t-cu-i-ky-hk1-23-24-chinh-quy-t-i-lt-va-nvc)
 
 #### Kết quả thi
  - **17/01**: [Thông báo về việc Tra cứu Kết quả học tập](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/798-thong-bao-v-vi-c-tra-c-u-k-t-qu-h-c-t-p)
