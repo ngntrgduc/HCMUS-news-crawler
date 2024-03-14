@@ -1,9 +1,9 @@
 ### Tin tức
+ - **13/03**: [GIỚI THIỆU “CHƯƠNG TRÌNH VƯỜN ƯƠM TÀI NĂNG” & HỢP TÁC TUYỂN DỤNG GIỮA TẬP ĐOÀN HOA SEN VÀ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/gioi-thieu-chuong-trinh-vuon-uom-tai-nang-hop-tac-tuyen-dung-giua-tap-doan-hoa-sen-va-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
+ - **13/03**: [VỀ ĐÂY NHỮNG YÊU THƯƠNG – CHÀO MỪNG NGÀY TRUYỀN THỐNG CỰU SINH VIÊN KHOA HỌC](https://hcmus.edu.vn/ve-day-nhung-yeu-thuong-chao-mung-ngay-truyen-thong-cuu-sinh-vien-khoa-hoc/)
+ - **10/03**: [TÔN VINH NỮ TRÍ THỨC TIÊU BIỂU TPHCM](https://hcmus.edu.vn/ton-vinh-nu-tri-thuc-tieu-bieu-tphcm/)
  - **04/03**: [CÁC CHƯƠNG TRÌNH TÀI TRỢ VÀ HỢP TÁC CỦA QUỸ VINIF NĂM 2024](https://hcmus.edu.vn/cac-chuong-trinh-tai-tro-va-hop-tac-cua-quy-vinif-nam-2024/)
  - **03/03**: [ĐỘI TUYỂN TRƯỜNG XUẤT SẮC VÀO VÒNG CHUNG KẾT ICPC TOÀN CẦU](https://hcmus.edu.vn/doi-tuyen-truong-xuat-sac-vao-vong-chung-ket-icpc-toan-cau/)
- - **29/02**: [MAMM 2024 – HO CHI MINH CITY, VIETNAM – The 7th Conference on Microactuators, Microsensors and Micromechanisms](https://hcmus.edu.vn/mamm-2024-ho-chi-minh-city-vietnam-the-7th-conference-on-microactuators-microsensors-and-micromechanisms/)
- - **21/02**: [LỄ VINH DANH NHÀ GIÁO ĐƯỢC BỔ NHIỆM CHỨC DANH GIÁO SƯ, PHÓ GIÁO SƯ](https://hcmus.edu.vn/le-vinh-danh-nha-giao-duoc-bo-nhiem-chuc-danh-giao-su-pho-giao-su/)
- - **16/02**: [ỨNG DỤNG TRÍ TUỆ NHÂN TẠO CHUYỂN CHỮ NÔM SANG CHỮ QUỐC NGỮ](https://hcmus.edu.vn/ung-dung-tri-tue-nhan-tao-chuyen-chu-nom-sang-chu-quoc-ngu/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
