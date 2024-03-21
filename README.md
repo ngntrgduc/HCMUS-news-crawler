@@ -1,18 +1,18 @@
 ### Tin tức
+ - **20/03**: [GIỚI THIỆU ZALO OA CHÍNH THỨC CỦA TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/gioi-thieu-zalo-oa-chinh-thuc-cua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
  - **13/03**: [GIỚI THIỆU “CHƯƠNG TRÌNH VƯỜN ƯƠM TÀI NĂNG” & HỢP TÁC TUYỂN DỤNG GIỮA TẬP ĐOÀN HOA SEN VÀ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/gioi-thieu-chuong-trinh-vuon-uom-tai-nang-hop-tac-tuyen-dung-giua-tap-doan-hoa-sen-va-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
  - **13/03**: [VỀ ĐÂY NHỮNG YÊU THƯƠNG – CHÀO MỪNG NGÀY TRUYỀN THỐNG CỰU SINH VIÊN KHOA HỌC](https://hcmus.edu.vn/ve-day-nhung-yeu-thuong-chao-mung-ngay-truyen-thong-cuu-sinh-vien-khoa-hoc/)
  - **10/03**: [TÔN VINH NỮ TRÍ THỨC TIÊU BIỂU TPHCM](https://hcmus.edu.vn/ton-vinh-nu-tri-thuc-tieu-bieu-tphcm/)
  - **08/03**: [SỰ KIỆN “PHỤ NỮ VÀ MÙA XUÂN” NHÂN DỊP KỶ NIỆM NGÀY QUỐC TẾ PHỤ NỮ 8/3](https://hcmus.edu.vn/nhin-lai-su-kien-phu-nu-va-mua-xuan-nhan-dip-ky-niem-ngay-quoc-te-phu-nu-8-3/)
- - **04/03**: [CÁC CHƯƠNG TRÌNH TÀI TRỢ VÀ HỢP TÁC CỦA QUỸ VINIF NĂM 2024](https://hcmus.edu.vn/cac-chuong-trinh-tai-tro-va-hop-tac-cua-quy-vinif-nam-2024/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
 #### Thông báo
+ - **20/03**: [Thông báo SV đánh giá môn học - GV HK2/2023-2024 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/809-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2023-2024-chuong-trinh-d-an-cac-khoa)
  - **22/02**: [Thông báo phúc khảo HK1/23-24 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/805-thong-bao-hk1-23-24-h-chinh-quy)
  - **26/01**: [Thông báo thay đổi phòng thi giữa kỳ HK2/23-24 ngày 30/1 tại NVC](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/801-thong-bao-thay-d-i-phong-thi-gi-a-ky-hk2-23-24-ngay-30-1-t-i-nvc)
  - **23/01**: [Thông báo phúc khảo HK1/23-24 HCĐH 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/800-thong-bao-phuc-kh-o-hk1-23-24-hcdh-22hcb)
  - **18/01**: [Thông báo phúc khảo HK1/23-24 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/799-thong-bao-phuc-kh-o-hk1-23-24-ct-d-an-cac-khoa)
- - **27/12**: [Thông báo phúc khảo HK1/23-24 ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/796-thong-bao-phuc-kh-o-hk1-23-24-dttx)
 
 #### Lịch thi
  - **18/03**: [Lịch thi HK2/23-24 hệ HCĐH khóa 22](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/808-l-ch-thi-hk2-23-24-h-hcdh-khoa-22)
