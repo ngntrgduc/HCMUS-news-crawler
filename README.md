@@ -15,11 +15,11 @@
  - **18/01**: [Thông báo phúc khảo HK1/23-24 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/799-thong-bao-phuc-kh-o-hk1-23-24-ct-d-an-cac-khoa)
 
 #### Lịch thi
+ - **27/03**: [Lịch thi giữa kỳ HK2/23-24 CT đề án khoa Lý(CẬP NHẬT 03/04)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/811-l-ch-thi-gi-a-ky-hk2-23-24-ct-d-an-khoa-ly)
+ - **03/04**: [Lịch thi HK2/23-24 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/814-l-ch-thi-hk2-23-24-h-dttx)
+ - **27/03**: [Lịch thi cuối kỳ HK2/23-24 CT đề án khoa CNTT (CẬP NHẬT 03/04)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/813-l-ch-thi-cu-i-ky-hk2-23-24-ct-d-an-khoa-cntt)
  - **27/03**: [Lịch thi giữa kỳ HK2/23-24 Chính quy tại LT và NVC (CẬP NHẬT 29/03)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/810-l-ch-thi-gi-a-ky-hk2-23-24-chinh-quy-t-i-lt-va-nvc)
- - **27/03**: [Lịch thi cuối kỳ HK2/23-24 CT đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/813-l-ch-thi-cu-i-ky-hk2-23-24-ct-d-an-khoa-cntt)
  - **27/03**: [Lịch thi cuối kỳ sớm HK2/23-24 Chính quy khoa Hóa, Sinh, ĐTVT](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/812-l-ch-thi-cu-i-ky-s-m-hk2-23-24-chinh-quy-khoa-hoa-sinh-dtvt)
- - **27/03**: [Lịch thi giữa kỳ HK2/23-24 CT đề án khoa Lý](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/811-l-ch-thi-gi-a-ky-hk2-23-24-ct-d-an-khoa-ly)
- - **18/03**: [Lịch thi HK2/23-24 hệ HCĐH khóa 22](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/808-l-ch-thi-hk2-23-24-h-hcdh-khoa-22)
 
 #### Kết quả thi
  - **17/01**: [Thông báo về việc Tra cứu Kết quả học tập](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/798-thong-bao-v-vi-c-tra-c-u-k-t-qu-h-c-t-p)
