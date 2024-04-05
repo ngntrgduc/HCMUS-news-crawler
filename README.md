@@ -1,9 +1,9 @@
 ### Tin tức
+ - **04/04**: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI CẤP ĐHQG-HCM MỚI THỰC HIỆN TỪ NĂM 2025 – GIAI ĐOẠN ĐỀ XUẤT](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-cap-dhqg-hcm-moi-thuc-hien-tu-nam-2025-giai-doan-de-xuat/)
+ - **04/04**: [[Thông báo] Cuộc thi Tìm kiếm giải pháp đổi mới sáng tạo trong khu vực công năm 2024 Saigon Govtech Challenge 2024 (Gov.Star 2024)”](https://hcmus.edu.vn/thong-bao-cuoc-thi-tim-kiem-giai-phap-doi-moi-sang-tao-trong-khu-vuc-cong-nam-2024-saigon-govtech-challenge-2024-gov-star-2024/)
+ - **04/04**: [VIỆN TẾ BÀO GỐC MANG CÔNG NGHỆ VỀ MIỀN TRUNG](https://hcmus.edu.vn/vien-te-bao-goc-mang-cong-nghe-ve-mien-trung/)
  - **02/04**: [NGÀY TRUYỀN THỐNG CỰU SINH VIÊN KHOA HỌC – LẦN THỨ I, NĂM 2024](https://hcmus.edu.vn/ngay-truyen-thong-cuu-sinh-vien-khoa-hoc-lan-thu-i-nam-2024/)
  - **27/03**: [TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM VÀ PHIÊN LÀM VIỆC VỚI ĐHQG-HCM VÀ ĐẠI DIỆN DỰ ÁN PHER VỀ LIÊM CHÍNH KHOA HỌC](https://hcmus.edu.vn/truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-va-phien-lam-viec-voi-dhqg-hcm-va-dai-dien-du-an-pher-ve-liem-chinh-khoa-hoc/)
- - **20/03**: [GIỚI THIỆU ZALO OA CHÍNH THỨC CỦA TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/gioi-thieu-zalo-oa-chinh-thuc-cua-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
- - **13/03**: [GIỚI THIỆU “CHƯƠNG TRÌNH VƯỜN ƯƠM TÀI NĂNG” & HỢP TÁC TUYỂN DỤNG GIỮA TẬP ĐOÀN HOA SEN VÀ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM](https://hcmus.edu.vn/gioi-thieu-chuong-trinh-vuon-uom-tai-nang-hop-tac-tuyen-dung-giua-tap-doan-hoa-sen-va-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm/)
- - **13/03**: [VỀ ĐÂY NHỮNG YÊU THƯƠNG – CHÀO MỪNG NGÀY TRUYỀN THỐNG CỰU SINH VIÊN KHOA HỌC](https://hcmus.edu.vn/ve-day-nhung-yeu-thuong-chao-mung-ngay-truyen-thong-cuu-sinh-vien-khoa-hoc/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
