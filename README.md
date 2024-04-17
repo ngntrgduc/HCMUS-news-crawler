@@ -1,9 +1,9 @@
 ### Tin tức
+ - **12/04**: [PHIÊN LÀM VIỆC VỚI TRƯỜNG ĐẠI HỌC BANG BẮC CAROLINA, HOA KỲ](https://hcmus.edu.vn/phien-lam-viec-voi-truong-dai-hoc-bang-bac-carolina-hoa-ky/)
  - **10/04**: [TỌA ĐÀM: “TỔNG QUAN VỀ SỞ HỮU TRÍ TUỆ”](https://hcmus.edu.vn/toa-dam-tong-quan-ve-so-huu-tri-tue/)
  - **04/04**: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI CẤP ĐHQG-HCM MỚI THỰC HIỆN TỪ NĂM 2025 – GIAI ĐOẠN ĐỀ XUẤT](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-cap-dhqg-hcm-moi-thuc-hien-tu-nam-2025-giai-doan-de-xuat/)
  - **04/04**: [[Thông báo] Cuộc thi Tìm kiếm giải pháp đổi mới sáng tạo trong khu vực công năm 2024 Saigon Govtech Challenge 2024 (Gov.Star 2024)”](https://hcmus.edu.vn/thong-bao-cuoc-thi-tim-kiem-giai-phap-doi-moi-sang-tao-trong-khu-vuc-cong-nam-2024-saigon-govtech-challenge-2024-gov-star-2024/)
  - **04/04**: [VIỆN TẾ BÀO GỐC MANG CÔNG NGHỆ VỀ MIỀN TRUNG](https://hcmus.edu.vn/vien-te-bao-goc-mang-cong-nghe-ve-mien-trung/)
- - **02/04**: [NGÀY TRUYỀN THỐNG CỰU SINH VIÊN KHOA HỌC – LẦN THỨ I, NĂM 2024](https://hcmus.edu.vn/ngay-truyen-thong-cuu-sinh-vien-khoa-hoc-lan-thu-i-nam-2024/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
