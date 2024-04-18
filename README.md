@@ -1,9 +1,9 @@
 ### Tin tức
+ - **15/04**: [ĐỘI TUYỂN TRƯỜNG ĐẠT THÀNH TÍCH TẠI OLYMPIC TOÁN HỌC SINH VIÊN TOÀN QUỐC](https://hcmus.edu.vn/doi-tuyen-truong-dat-thanh-tich-tai-olympic-toan-hoc-sinh-vien-toan-quoc/)
  - **12/04**: [PHIÊN LÀM VIỆC VỚI TRƯỜNG ĐẠI HỌC BANG BẮC CAROLINA, HOA KỲ](https://hcmus.edu.vn/phien-lam-viec-voi-truong-dai-hoc-bang-bac-carolina-hoa-ky/)
  - **10/04**: [TỌA ĐÀM: “TỔNG QUAN VỀ SỞ HỮU TRÍ TUỆ”](https://hcmus.edu.vn/toa-dam-tong-quan-ve-so-huu-tri-tue/)
  - **04/04**: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI CẤP ĐHQG-HCM MỚI THỰC HIỆN TỪ NĂM 2025 – GIAI ĐOẠN ĐỀ XUẤT](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-cap-dhqg-hcm-moi-thuc-hien-tu-nam-2025-giai-doan-de-xuat/)
  - **04/04**: [[Thông báo] Cuộc thi Tìm kiếm giải pháp đổi mới sáng tạo trong khu vực công năm 2024 Saigon Govtech Challenge 2024 (Gov.Star 2024)”](https://hcmus.edu.vn/thong-bao-cuoc-thi-tim-kiem-giai-phap-doi-moi-sang-tao-trong-khu-vuc-cong-nam-2024-saigon-govtech-challenge-2024-gov-star-2024/)
- - **04/04**: [VIỆN TẾ BÀO GỐC MANG CÔNG NGHỆ VỀ MIỀN TRUNG](https://hcmus.edu.vn/vien-te-bao-goc-mang-cong-nghe-ve-mien-trung/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
@@ -15,11 +15,11 @@
  - **18/01**: [Thông báo phúc khảo HK1/23-24 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/799-thong-bao-phuc-kh-o-hk1-23-24-ct-d-an-cac-khoa)
 
 #### Lịch thi
+ - **27/03**: [Lịch thi giữa kỳ HK2/23-24 Chính quy tại LT và NVC (CẬP NHẬT 29/03)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/810-l-ch-thi-gi-a-ky-hk2-23-24-chinh-quy-t-i-lt-va-nvc)
  - **27/03**: [Lịch thi cuối kỳ HK2/23-24 CT đề án khoa CNTT (CẬP NHẬT 03/04)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/813-l-ch-thi-cu-i-ky-hk2-23-24-ct-d-an-khoa-cntt)
  - **15/03**: [Lịch thi cuối kỳ HK2/23-24 CT đề án các khoa (CẬP NHẬT 11/04)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/807-l-ch-thi-cu-i-ky-hk2-23-24-ct-d-an-cac-khoa)
  - **27/03**: [Lịch thi giữa kỳ HK2/23-24 CT đề án khoa Lý(CẬP NHẬT 03/04)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/811-l-ch-thi-gi-a-ky-hk2-23-24-ct-d-an-khoa-ly)
  - **03/04**: [Lịch thi HK2/23-24 hệ ĐTTX](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/814-l-ch-thi-hk2-23-24-h-dttx)
- - **27/03**: [Lịch thi giữa kỳ HK2/23-24 Chính quy tại LT và NVC (CẬP NHẬT 29/03)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/810-l-ch-thi-gi-a-ky-hk2-23-24-chinh-quy-t-i-lt-va-nvc)
 
 #### Kết quả thi
  - **17/01**: [Thông báo về việc Tra cứu Kết quả học tập](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/798-thong-bao-v-vi-c-tra-c-u-k-t-qu-h-c-t-p)
