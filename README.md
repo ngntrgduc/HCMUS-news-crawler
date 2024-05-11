@@ -15,11 +15,11 @@
  - **18/01**: [Thông báo phúc khảo HK1/23-24 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/799-thong-bao-phuc-kh-o-hk1-23-24-ct-d-an-cac-khoa)
 
 #### Lịch thi
+ - **10/05**: [Lịch thi cuối kỳ HK2/23-24 Chính quy tại LT và NVC](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/816-l-ch-thi-cu-i-ky-hk2-23-24-chinh-quy-t-i-lt-va-nvc)
  - **08/05**: [Lịch thi giữa kỳ HK3/23-24 CT đề án khoa Hóa khóa 2021](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/815-l-ch-thi-gi-a-ky-hk3-23-24-ct-d-an-khoa-hoa-khoa-2021)
  - **27/03**: [Lịch thi giữa kỳ HK2/23-24 Chính quy tại LT và NVC (CẬP NHẬT 29/03)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/810-l-ch-thi-gi-a-ky-hk2-23-24-chinh-quy-t-i-lt-va-nvc)
  - **27/03**: [Lịch thi cuối kỳ HK2/23-24 CT đề án khoa CNTT (CẬP NHẬT 03/04)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/813-l-ch-thi-cu-i-ky-hk2-23-24-ct-d-an-khoa-cntt)
  - **15/03**: [Lịch thi cuối kỳ HK2/23-24 CT đề án các khoa (CẬP NHẬT 11/04)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/807-l-ch-thi-cu-i-ky-hk2-23-24-ct-d-an-cac-khoa)
- - **27/03**: [Lịch thi giữa kỳ HK2/23-24 CT đề án khoa Lý(CẬP NHẬT 03/04)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/811-l-ch-thi-gi-a-ky-hk2-23-24-ct-d-an-khoa-ly)
 
 #### Kết quả thi
  - **17/01**: [Thông báo về việc Tra cứu Kết quả học tập](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/k-t-qu-thi-h-c-ky/798-thong-bao-v-vi-c-tra-c-u-k-t-qu-h-c-t-p)
