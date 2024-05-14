@@ -1,9 +1,9 @@
 ### Tin tức
+ - **09/05**: [TIẾP ĐÓN TRƯỜNG ĐẠI HỌC ĐỒNG NAI](https://hcmus.edu.vn/tiep-don-truong-dai-hoc-dong-nai/)
  - **07/05**: [CHƯƠNG TRÌNH TỔ CHỨC TẬP HUẤN, PHỔ BIẾN LUẬT ĐẤU THẦU SỐ 22/2023/QH15; QUYẾT ĐỊNH SỐ 232/QĐ-ĐHQG NGÀY 18/3/2024 CỦA ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH](https://hcmus.edu.vn/to-chuc-tap-huan-pho-bien-luat-dau-thau-so-22-2023-qh15-quyet-dinh-so-232-qd-dhqg-ngay-18-3-2024-cua-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/)
  - **01/05**: [Trái ngọt từ Chương trình Thạc sĩ toán ứng dụng](https://hcmus.edu.vn/trai-ngot-tu-chuong-trinh-thac-si-toan-ung-dung/)
  - **25/04**: [KHOA SINH HỌC – CÔNG NGHỆ SINH HỌC VÀ KHOA HÓA HỌC THAM GIA CHƯƠNG TRÌNH KIỂM ĐỊNH ASIIN 2024](https://hcmus.edu.vn/khoa-sinh-hoc-cong-nghe-sinh-hoc-va-khoa-hoa-hoc-tham-gia-chuong-trinh-kiem-dinh-asiin-2024/)
  - **22/04**: [NGÀY HỘI VIỆC LÀM KHOA CÔNG NGHỆ THÔNG TIN VÀ CHƯƠNG TRÌNH TRẢI NGHIỆM FIT OPEN DAY](https://hcmus.edu.vn/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-2024/)
- - **15/04**: [ĐỘI TUYỂN TRƯỜNG ĐẠT THÀNH TÍCH TẠI OLYMPIC TOÁN HỌC SINH VIÊN TOÀN QUỐC](https://hcmus.edu.vn/doi-tuyen-truong-dat-thanh-tich-tai-olympic-toan-hoc-sinh-vien-toan-quoc/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
