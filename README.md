@@ -1,9 +1,9 @@
 ### Tin tức
  - **09/05**: [TIẾP ĐÓN TRƯỜNG ĐẠI HỌC ĐỒNG NAI](https://hcmus.edu.vn/tiep-don-truong-dai-hoc-dong-nai/)
+ - **08/05**: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI NCKH CẤP TRƯỜNG NĂM 2024 (ĐỢT 1 – THÁNG 5/2024)](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-nckh-cap-truong-nam-2024-dot-1-thang-5-2024/)
  - **07/05**: [CHƯƠNG TRÌNH TỔ CHỨC TẬP HUẤN, PHỔ BIẾN LUẬT ĐẤU THẦU SỐ 22/2023/QH15; QUYẾT ĐỊNH SỐ 232/QĐ-ĐHQG NGÀY 18/3/2024 CỦA ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH](https://hcmus.edu.vn/to-chuc-tap-huan-pho-bien-luat-dau-thau-so-22-2023-qh15-quyet-dinh-so-232-qd-dhqg-ngay-18-3-2024-cua-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/)
+ - **02/05**: [HỘI NGHỊ HỘI ĐỒNG TRƯỜNG LẦN 16, NĂM 2024](https://hcmus.edu.vn/hoi-nghi-hoi-dong-truong-lan-16-nam-2024/)
  - **01/05**: [Trái ngọt từ Chương trình Thạc sĩ toán ứng dụng](https://hcmus.edu.vn/trai-ngot-tu-chuong-trinh-thac-si-toan-ung-dung/)
- - **25/04**: [KHOA SINH HỌC – CÔNG NGHỆ SINH HỌC VÀ KHOA HÓA HỌC THAM GIA CHƯƠNG TRÌNH KIỂM ĐỊNH ASIIN 2024](https://hcmus.edu.vn/khoa-sinh-hoc-cong-nghe-sinh-hoc-va-khoa-hoa-hoc-tham-gia-chuong-trinh-kiem-dinh-asiin-2024/)
- - **22/04**: [NGÀY HỘI VIỆC LÀM KHOA CÔNG NGHỆ THÔNG TIN VÀ CHƯƠNG TRÌNH TRẢI NGHIỆM FIT OPEN DAY](https://hcmus.edu.vn/ngay-hoi-viec-lam-khoa-cong-nghe-thong-tin-2024/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
@@ -15,7 +15,7 @@
  - **18/01**: [Thông báo phúc khảo HK1/23-24 CT đề án các Khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/799-thong-bao-phuc-kh-o-hk1-23-24-ct-d-an-cac-khoa)
 
 #### Lịch thi
- - **10/05**: [Lịch thi cuối kỳ HK2/23-24 Chính quy tại LT và NVC](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/816-l-ch-thi-cu-i-ky-hk2-23-24-chinh-quy-t-i-lt-va-nvc)
+ - **10/05**: [Lịch thi cuối kỳ HK2/23-24 Chính quy tại LT và NVC (CẬP NHẬT 14/05)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/816-l-ch-thi-cu-i-ky-hk2-23-24-chinh-quy-t-i-lt-va-nvc)
  - **08/05**: [Lịch thi giữa kỳ HK3/23-24 CT đề án khoa Hóa khóa 2021](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/815-l-ch-thi-gi-a-ky-hk3-23-24-ct-d-an-khoa-hoa-khoa-2021)
  - **27/03**: [Lịch thi giữa kỳ HK2/23-24 Chính quy tại LT và NVC (CẬP NHẬT 29/03)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/810-l-ch-thi-gi-a-ky-hk2-23-24-chinh-quy-t-i-lt-va-nvc)
  - **27/03**: [Lịch thi cuối kỳ HK2/23-24 CT đề án khoa CNTT (CẬP NHẬT 03/04)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/813-l-ch-thi-cu-i-ky-hk2-23-24-ct-d-an-khoa-cntt)
