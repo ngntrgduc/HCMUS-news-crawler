@@ -1,9 +1,9 @@
 ### Tin tức
+ - **16/05**: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI 2024](https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-2024/)
  - **15/05**: [BÀI BÁO KHOA HỌC TẠI HỘI NGHỊ ACM CHI 2024](https://hcmus.edu.vn/bai-bao-khoa-hoc-tai-hoi-nghi-acm-chi-2024/)
  - **11/05**: [LỄ KHAI GIẢNG CHƯƠNG TRÌNH HỌC BỔNG TIẾNG ANH HƯỚNG NGHIỆP](https://hcmus.edu.vn/le-khai-giang-khoa-tieng-anh-huong-nghiep-nam-hoc-2024/)
+ - **09/05**: [GẶP GỠ VÀ TRAO ĐỔI VỚI ĐẠI HỌC KHOA HỌC VÀ CÔNG NGHỆ POHANG, HÀN QUỐC](https://hcmus.edu.vn/gap-go-va-trao-doi-voi-dai-hoc-khoa-hoc-va-cong-nghe-pohang-han-quoc/)
  - **09/05**: [TIẾP ĐÓN TRƯỜNG ĐẠI HỌC ĐỒNG NAI](https://hcmus.edu.vn/tiep-don-truong-dai-hoc-dong-nai/)
- - **08/05**: [THÔNG BÁO ĐĂNG KÝ ĐỀ TÀI NCKH CẤP TRƯỜNG NĂM 2024 (ĐỢT 1 – THÁNG 5/2024)](https://hcmus.edu.vn/thong-bao-dang-ky-de-tai-nckh-cap-truong-nam-2024-dot-1-thang-5-2024/)
- - **07/05**: [CHƯƠNG TRÌNH TỔ CHỨC TẬP HUẤN, PHỔ BIẾN LUẬT ĐẤU THẦU SỐ 22/2023/QH15; QUYẾT ĐỊNH SỐ 232/QĐ-ĐHQG NGÀY 18/3/2024 CỦA ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH](https://hcmus.edu.vn/to-chuc-tap-huan-pho-bien-luat-dau-thau-so-22-2023-qh15-quyet-dinh-so-232-qd-dhqg-ngay-18-3-2024-cua-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
