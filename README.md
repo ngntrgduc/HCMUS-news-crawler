@@ -1,9 +1,9 @@
 ### Tin tức
+ - **20/05**: [CHÚC MỪNG CÁC ĐỀ TÀI ĐƯỢC KHEN THƯỞNG TẠI  HỘI NGHỊ KHOA HỌC TRẺ TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN, ĐHQG-HCM LẦN 1 – NĂM 2024](https://hcmus.edu.vn/chuc-mung-cac-de-tai-duoc-khen-thuong-tai-hoi-nghi-khoa-hoc-tre-truong-dai-hoc-khoa-hoc-tu-nhien-dhqg-hcm-lan-1-nam-2024/)
  - **19/05**: [THẮNG GIẢI CUỘC THI THIẾT KẾ VI MẠCH CHO ĐÔ THỊ THÔNG MINH](https://hcmus.edu.vn/thang-giai-cuoc-thi-thiet-ke-vi-mach-cho-do-thi-thong-minh/)
  - **17/05**: [THAM GIA HUẤN LUYỆN NGHIỆP VỤ VỀ CÔNG TÁC PHÒNG CHÁY CHỮA CHÁY VÀ CỨU NẠN CỨU HỘ NĂM 2024](https://hcmus.edu.vn/tham-gia-huan-luyen-nghiep-vu-ve-cong-tac-phong-chay-chua-chay-va-cuu-nan-cuu-ho-nam-2024/)
  - **16/05**: [THÔNG BÁO GIẢI THƯỞNG LÊ VĂN THỚI 2024](https://hcmus.edu.vn/thong-bao-giai-thuong-le-van-thoi-2024/)
  - **15/05**: [BÀI BÁO KHOA HỌC TẠI HỘI NGHỊ ACM CHI 2024](https://hcmus.edu.vn/bai-bao-khoa-hoc-tai-hoi-nghi-acm-chi-2024/)
- - **11/05**: [LỄ KHAI GIẢNG CHƯƠNG TRÌNH HỌC BỔNG TIẾNG ANH HƯỚNG NGHIỆP](https://hcmus.edu.vn/le-khai-giang-khoa-tieng-anh-huong-nghiep-nam-hoc-2024/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
