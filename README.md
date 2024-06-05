@@ -1,9 +1,4 @@
 ### Tin tức
- - **01/06**: [NGÀY HỘI QUỐC TẾ THIẾU NHI 1/6 NĂM HỌC 2023-2024 & LỄ TRAO HỌC BỔNG NGUYỄN ĐỨC CẢNH](https://hcmus.edu.vn/le-trao-hoc-bong-nguyen-duc-canh-quoc-te-thieu-nhi-1-6-nam-hoc-2023-2024/)
- - **31/05**: [LỄ TRAO BẢN GHI NHỚ MOU VỚI CÔNG TY TNHH GIÁM ĐỊNH VINACONTROL TP. HỒ CHÍ MINH](https://hcmus.edu.vn/le-trao-ban-ghi-nho-mou-voi-cong-ty-tnhh-giam-dinh-vinacontrol-tp-ho-chi-minh/)
- - **30/05**: [GẶP GỠ VÀ TRAO ĐỔI HỢP TÁC VỚI IARE – VIỆN KỸ THUẬT HÀNG KHÔNG, ẤN ĐỘ](https://hcmus.edu.vn/gap-go-va-trao-doi-hop-tac-voi-iare-vien-ky-thuat-hang-khong-an-do/)
- - **28/05**: [TIN BUỒN](https://hcmus.edu.vn/tin-buon/)
- - **27/05**: [NGÀY HỘI SINH VIÊN VÀ DOANH NGHIỆP NĂM 2024 (ĐỢT 1)](https://hcmus.edu.vn/ngay-hoi-sinh-vien-va-doanh-nghiep-nam-2024-dot-1/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
