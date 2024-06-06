@@ -10,9 +10,9 @@
  - **22/02**: [Thông báo phúc khảo HK1/23-24 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/805-thong-bao-hk1-23-24-h-chinh-quy)
 
 #### Lịch thi
+ - **10/05**: [Lịch thi cuối kỳ HK2/23-24 Chính quy tại LT và NVC (CẬP NHẬT 05/06)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/816-l-ch-thi-cu-i-ky-hk2-23-24-chinh-quy-t-i-lt-va-nvc)
  - **30/05**: [Lịch thi cuối kỳ HK3/23-24 CTĐA khoa Hóa K2021 và khoa Sinh-CNSH (thi sớm)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/821-l-ch-thi-cu-i-ky-hk3-23-24-ctda-khoa-hoa-k2021-va-khoa-sinh-cnsh-thi-s-m)
  - **30/05**: [Lịch thi giữa kỳ HK3/23-24 CTĐA khoa Hóa, ĐTVT và KHVL](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/820-l-ch-thi-gi-a-ky-hk3-23-24-ctda-khoa-hoa-dtvt-va-khvl)
- - **10/05**: [Lịch thi cuối kỳ HK2/23-24 Chính quy tại LT và NVC (CẬP NHẬT 30/05)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/816-l-ch-thi-cu-i-ky-hk2-23-24-chinh-quy-t-i-lt-va-nvc)
  - **08/05**: [Lịch thi giữa kỳ HK3/23-24 CT đề án khoa Hóa khóa 2021](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/815-l-ch-thi-gi-a-ky-hk3-23-24-ct-d-an-khoa-hoa-khoa-2021)
  - **27/03**: [Lịch thi giữa kỳ HK2/23-24 Chính quy tại LT và NVC (CẬP NHẬT 29/03)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/810-l-ch-thi-gi-a-ky-hk2-23-24-chinh-quy-t-i-lt-va-nvc)
 
