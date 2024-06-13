@@ -3,11 +3,11 @@
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
 #### Thông báo
+ - **12/06**: [Thông báo SV đánh giá môn học - GV HK2 /2023-2024 (Chính quy và lớp đề án khoa Lý-VLKT)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/823-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2023-2024-chinh-quy-va-l-p-d-an-khoa-ly-vlkt)
  - **30/05**: [Thông báo phúc khảo HK2/23-24 Chương trình đề án khoa CNTT](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/819-thong-bao-phuc-kh-o-hk2-23-24-chuong-trinh-d-an-khoa-cntt)
  - **30/05**: [Thông báo phúc khảo HK2/23-24 lớp HCĐH 22HCB](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/818-thong-bao-phuc-kh-o-hk2-23-24-l-p-hcdh-22hcb)
  - **30/05**: [Thông báo phúc khảo HK2/23-24 Chương trình đề án các khoa](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/817-thong-bao-phuc-kh-o-hk2-23-24-chuong-trinh-d-an-cac-khoa)
  - **20/03**: [Thông báo SV đánh giá môn học - GV HK2/2023-2024 (Chương trình đề án các khoa)](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/809-thong-bao-sv-danh-gia-mon-h-c-gv-hk2-2023-2024-chuong-trinh-d-an-cac-khoa)
- - **22/02**: [Thông báo phúc khảo HK1/23-24 hệ Chính quy](http://ktdbcl.hcmus.edu.vn/index.php/thong-bao/805-thong-bao-hk1-23-24-h-chinh-quy)
 
 #### Lịch thi
  - **10/05**: [Lịch thi cuối kỳ HK2/23-24 Chính quy tại LT và NVC (CẬP NHẬT 11/06)](http://ktdbcl.hcmus.edu.vn/index.php/cong-tac-kh-o-thi/l-ch-thi-h-c-ky/816-l-ch-thi-cu-i-ky-hk2-23-24-chinh-quy-t-i-lt-va-nvc)
