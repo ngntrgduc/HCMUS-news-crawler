@@ -1,4 +1,9 @@
 ### Tin tức
+ - **04/07**: [THÔNG BÁO: ĐIỂM CHUẨN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 6 NĂM 2024](https://hcmus.edu.vn/thong-bao-diem-chuan-trung-tuyen-phuong-thuc-xet-tuyen-6-nam-2024/)
+ - **04/07**: [THÔNG BÁO: KẾT QUẢ ĐỦ ĐIỀU KIỆN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 1 NĂM 2024](https://hcmus.edu.vn/thong-bao-ket-qua-du-dieu-kien-trung-tuyen-phuong-thuc-xet-tuyen-1-nam-2024/)
+ - **02/07**: [THÔNG BÁO: ĐIỂM CHUẨN TRÚNG TUYỂN DỰA TRÊN KẾT QUẢ  KỲ THI ĐÁNH GIÁ NĂNG LỰC CỦA ĐHQG-HCM NĂM 2024](https://hcmus.edu.vn/diem-chuan-trung-tuyen-dua-tren-ket-qua-ky-thi-danh-gia-nang-luc-cua-dhqg-hcm-nam-2024/)
+ - **02/07**: [THÔNG BÁO: ĐIỂM CHUẨN TRÚNG TUYỂN PHƯƠNG THỨC XÉT TUYỂN 2 NĂM 2024](https://hcmus.edu.vn/thong-bao-diem-chuan-trung-tuyen-phuong-thuc-xet-tuyen-2-nam-2024/)
+ - **24/06**: [HỘI THẢO: “DATA VÀ AI: CƠ HỘI VÀ THÁCH THỨC. HỌC TẬP, NGHIÊN CỨU VÀ LÀM VIỆC TẠI CHÂU ÂU”](https://hcmus.edu.vn/hoi-thao-data-ai-co-hoi-thach-thuc-hoc-tap-nghien-cuu-va-lam-viec-tai-chau-au/)
 
 ### Thông báo Phòng Khảo thí và Đảm bảo Chất lượng
 
